@@ -39,34 +39,34 @@ http://198.100.158.231:1935/live/speda/playlist.m3u8
 https://kurdsat-news.akamaized.net/hls/stream_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/6356f165-3302-41ba-95fc-beceb36af4ef.png" group-title="FREE TV",WAAR TV
 https://ca-rt.onetv.app/Waar/index-0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/6356f165-3302-41ba-95fc-beceb36af4ef.png" group-title="FREE TV",WAAR HD+
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/f262cd4c-3811-49bd-b60d-6a727f9e02de.png" group-title="FREE TV",RAVAND HD
 http://ravandtv.badinan.xyz:1935/live/RAVAND-HD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/737754fe-8890-4499-b78b-4a16711ca91e.png" group-title="FREE TV",NEXT HD
 http://next.badinan.xyz:1935/nexttv/FHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/7a57cf95-ae40-44c3-a976-747f97f45c2e.png" group-title="FREE TV",DUHOK TV
 http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/eeed9a4b-d58d-45ba-b96c-f249366edfc8.png" group-title="FREE TV",ZAXO TV
-https://panadatv.karwan.tv/zaxo/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/diyargulli/MyFiles/main/tv_logos/New%20Project.webp" group-title="FREE TV",TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/2804a683-5235-43ff-be69-4713e624a1fe.png" group-title="FREE TV",NEWLINE 1
-https://panadatv.karwan.tv/Newline1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/3cd7286c-23f8-4bf5-8245-31518ade9e2e.png" group-title="FREE TV",NEWLINE 2
-https://panadatv.karwan.tv/Newline2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/zed.png" group-title="FREE TV",ZED HD
-https://live4.karwan.tv/zedhd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/2804a683-5235-43ff-be69-4713e624a1fe.png" group-title="VIP TV",NEWLINE 1
+http://line.now-ott.xyz/live/451AAD/%203f41a2/89653.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/3cd7286c-23f8-4bf5-8245-31518ade9e2e.png" group-title="VIP TV",NEWLINE 2
+http://line.now-ott.xyz/live/451AAD/%203f41a2/89652.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/zed.png" group-title="VIP TV",ZED HD
+http://line.now-ott.xyz/live/451AAD/%203f41a2/89636.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/dvVj4Bt4/ava.png" group-title="FREE TV",AVA TV
 https://ava4.site/upload//images/avahd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://trt-public-static.trt.com.tr/trt1/public/dm_upload/modul4/cee3e1b4-e151-43a4-9ffd-914cd735981c.jpg" group-title="FREE TV",TRT 1
 http://185.234.111.229:8000/play/a00c
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hSZPXbwj/aro-family.png" group-title="FREE TV",ARO FAMILY
-https://panadatv.karwan.tv/arofamley/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hSZPXbwj/aro-family.png" group-title="VIP TV",ARO FAMILY
+http://line.now-ott.xyz/live/451AAD/%203f41a2/1443587.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rwXvvg8/Screenshot-20240728-202556-2.png" group-title="FREE TV",NIROJ TV
 http://142.132.133.190:1935/live/Niroj_HD/chunklist_w713715543.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/c741fac8-4660-4fd2-99d5-2ab1e531b600.png" group-title="FREE TV",HALABJA 88
 http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/kqpWmBkS/kalpr.png" group-title="FREE TV",KALAPOR
-https://panadatv.karwan.tv/Kalapore/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/kqpWmBkS/kalpr.png" group-title="VIP TV",KALAPOR
+http://line.now-ott.xyz/live/451AAD/%203f41a2/1443595.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/5ecaddc2-891a-4b6d-95df-e9d79f09cc43.png" group-title="FREE TV",BARIN FAMILY
 http://baskhd.ddns.net:40/live/BarinfamilyHD/HawezHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/c1742260-dde2-436d-a542-73b3cb22b77a.png" group-title="FREE TV",GEWHER HD
@@ -75,8 +75,8 @@ http://avrstream.com:1935/live/Gewher-HD/playlist.m3u8
 http://qellat.myftp.org:1935/live/Qellat_tv/chunklist_w1831598703.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/756cf56e-ad28-44ce-81a3-17dc69478b17.png" group-title="FREE TV",SORAN ENT
 http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/177938f3-07a3-4cb8-a7fd-fc86401c8ef4.png" group-title="FREE TV",SHAISTA HD
-http://megaott.live:8080/live/Ma8Np4qGLPtW/XccD4ueFpKMa/99060.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/177938f3-07a3-4cb8-a7fd-fc86401c8ef4.png" group-title="VIP TV",SHAISTA HD
+http://line.now-ott.xyz/live/451AAD/%203f41a2/89642.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/17bb32c2-0cdd-469c-9bd2-7d1235b31b05.png" group-title="FREE TV",BNAR 4K
 http://baskhd.ddns.net:40/live/bnar4k/chunklist_w1879313083.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/b3e45378-3bef-4b62-9711-e55332dd7c68.png" group-title="FREE TV",CANAL 8 KURDI
@@ -98,11 +98,11 @@ http://bblserver.ddns.net:1935/stream/khakhd/chunklist_w355146942.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/ddbdd353-b601-4513-8f37-4fcaafd7ef32.png" group-title="FREE TV",BEFRIN TV
 http://avrstream.com:1935/live/BEFRIN-HD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/2e6204d6-0333-4b25-af01-9e73a2e56568.png" group-title="FREE TV",NRT 2
-https://panadatv.karwan.tv/Nrt2/tracks-v1a1/mono.m3u8
+http://176.65.128.171/live:.cid.651406f830eed3072/df3cHkaUue/1433.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/9fffd492-02d3-4c74-8ed4-68984303e125.png" group-title="FREE TV",BADINAN
 http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/ef4cc827-bdb0-49b3-97d7-3706c93ef0db.png" group-title="FREE TV",RESEN HD
-https://panadatv.karwan.tv/Rasan/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/ef4cc827-bdb0-49b3-97d7-3706c93ef0db.png" group-title="VIP TV",RESEN HD
+http://line.now-ott.xyz/live/451AAD/%203f41a2/723217.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/a46ecb14-18f1-485e-aac6-a6ee865cca78.png" group-title="FREE TV",HORMZYAR
 http://avrstream.com:1935/live/HormzyarHD/chunklist_w459232276.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/bec87879-dc44-4a64-901a-a1c21264f421.png" group-title="FREE TV",SADA TV
@@ -115,14 +115,8 @@ https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8
 http://avrstream.com:1935/live/AvarTv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nxR9J5Ph/SHAR.png" group-title="FREE TV",SHAR TV
 http://avrstream.com:1935/live/SHARTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pencil-in-circle4975.logowik.com.webp" group-title="FREE TV",QALLAM TV
-https://panadatv.karwan.tv/Qallam/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YrKXLwz0/astera-folklor.png" group-title="FREE TV",ASTERA TV
-https://panadatv.karwan.tv/ASTERAFMALEY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/3fd4e7fc-649b-47c9-914f-a4339311befb.png" group-title="VIP TV",DASINYA TV
 http://extraott-iptv.com:88/live/0229477349/8104258135/381759.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/6356f165-3302-41ba-95fc-beceb36af4ef.png" group-title="VIP TV",WAAR FHD
-http://line.now-ott.xyz/live/451AAD/%203f41a2/1443586.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://mixmedia.tv/wp-content/uploads/2020/06/Delal-TV.jpg" group-title="VIP TV",DELAL TV
 http://extraott-iptv.com:88/live/0229477349/8104258135/400219964.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/eeed9a4b-d58d-45ba-b96c-f249366edfc8.png" group-title="VIP TV",ZAXO FHD
@@ -157,28 +151,24 @@ http://line.now-ott.xyz/live/451AAD/%203f41a2/89686.ts
 http://extraott-iptv.com:88//live/0229477349/8104258135/39486.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://go4.pw/KURDISH/Slemani%20HD.png" group-title="VIP TV",SLEMANNY TV
 http://extraott-iptv.com:88//live/0229477349/8104258135/36919.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/655944e5-1552-48d9-8528-beed15572392.png" group-title="MOVIES",ASTERA MOVIES
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/655944e5-1552-48d9-8528-beed15572392.png" group-title="VIP TV",ASTERA MOVIES
 http://line.now-ott.xyz/live/451AAD/%203f41a2/89682.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/7530eab0-7389-4de6-a3db-05d75a958ac5.png" group-title="MOVIES",BARIN MOVIES
 http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/17bb32c2-0cdd-469c-9bd2-7d1235b31b05.png" group-title="MOVIES",BNAR MOVIES
 http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://go4.pw/KURDISH/Zed%20Plus.png" group-title="MOVIES",ZED PLUS
-https://panadatv.karwan.tv/zed/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://go4.pw/KURDISH/Zed%20Plus.png" group-title="MOVIES",ZED PLUS 2
-https://live4.karwan.tv/zed/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://go4.pw/KURDISH/Zed%20Plus.png" group-title="VIP TV",ZED PLUS
+http://line.now-ott.xyz/live/451AAD/%203f41a2/741941.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/97eb34ff-8f1e-4aa7-88c3-19047f070a7e.png" group-title="MOVIES",MNM MOVIES
 http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist_w2101108385.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/97eb34ff-8f1e-4aa7-88c3-19047f070a7e.png" group-title="MOVIES",MNM DRAMA
 http://mmn.mypsx.net:1935/live/mmnhddrama/chunklist_w884107130.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/s3DfxzHP/MMN.png" group-title="MOVIES",MNM ACTION
 http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/4JYJGg10/NDRAMA.png" group-title="MOVIES",NEWLINE DRAMA
-https://panadatv.karwan.tv/Newlinedrama/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZTPSPxJT/nmovies.png" group-title="MOVIES",NEWLINE MOVIES
-https://panadatv.karwan.tv/newlinemoves/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.kurdcinama.com/images/logo.png" group-title="MOVIES",KURD FILM
-https://panadatv.karwan.tv/ldcenma/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/4JYJGg10/NDRAMA.png" group-title="VIP TV",NEWLINE DRAMA
+http://line.now-ott.xyz/live/451AAD/%203f41a2/1443623.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZTPSPxJT/nmovies.png" group-title="VIP TV",NEWLINE MOVIES
+http://line.now-ott.xyz/live/451AAD/%203f41a2/741933.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/dff8f499-c33c-48e1-b3e4-11baaa877add.png" group-title="MOVIES",MBC 2
 http://149.57.37.10/EX/MBC_2_FHD-ar/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/e7985612-3981-4f6c-abff-35d0e55c93e1.png" group-title="MOVIES",MBC BOLYWOOD
@@ -207,10 +197,6 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u
 http://178.219.128.68:64888/KINOTV
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1edbb309-7b1a-475f-8cb2-4b5c8512c01d.png" group-title="DOCUMENTARY",MNM DOCUMENTARY
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/chunklist_w607559860.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/T23RyBnS/QALAM.png" group-title="DOCUMENTARY",QALLAM DOCUMENTARY
-https://live4.karwan.tv/QallamGeographic/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pencil-in-circle4975.logowik.com.webp" group-title="DOCUMENTARY",QALLAM QEO
-https://panadatv.karwan.tv/QallamGeographic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/e91892aa-6dbf-4f91-991b-5aa3f619bce9.png" group-title="DOCUMENTARY",NAT GEO WILD
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/pictures/685.png" group-title="DOCUMENTARY",NAT GEO ABU DHABI
@@ -249,16 +235,10 @@ http://178.219.128.68:64889/NATIGEOGHD
 http://178.219.128.68:64888/POLSVIASHISTHD
 #EXTINF:-1 tvg-id="PolsatViasatNature.pl" tvg-logo="https://i.imgur.com/TUcM0oS.png" group-title="DOCUMENTARY",Polsat Viasat Nature
 http://178.219.128.68:64888/POLSVIASNATUHD
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/1mHyScdW/NKIDS.png" group-title="KIDS",NEWLINE KIDS
-https://panadatv.karwan.tv/newlinekids/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pencil-in-circle4975.logowik.com.webp" group-title="KIDS",QALLAM KIDS
-https://panadatv.karwan.tv/QallamKids/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="KIDS",AVAR KIDS
 http://avrstream.com:1935/live/AvarTv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://zindikurmanci.zaroktv.com.tr/logo" group-title="KIDS",ZAROK TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wqfpYqQN/NRT3.png" group-title="KIDS",NRT 3
-https://panadatv.karwan.tv/nrt3/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="KIDS",Nickelodeon
 http://109.233.89.166/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-logo="https://i.imgur.com/zeKHZYG.png" group-title="KIDS",Persiana Junior
@@ -305,18 +285,8 @@ http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="COUNTRY",KBS 2TV
 http://mytv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 tvg-id="PeaceTVEnglish.ae" tvg-logo="https://sul.ge/images/televizia/tvc.png" group-title="COUNTRY",PEACE TV
-https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/6d7dee7f-bff3-4ee3-808d-f8dfbea0425a.png" group-title="SPORTS",NUBAR SPORT
 http://stream.nubar.tv:1935/private/NUBARSport/chunklist_w1691098846.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pencil-in-circle4975.logowik.com.webp" group-title="SPORTS",QALLAM SPORT
-https://panadatv.karwan.tv/qalamsp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/NgDjnQC2/nrt-sport.png" group-title="SPORTS",NRT SPORT
-https://panadatv.karwan.tv/nrtsport/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/QDv92JXX/duhok-sport.png" group-title="SPORTS",DUHOK SPORT
-https://panadatv.karwan.tv/duhoksport/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/WT9bzD4z/ARABIA.png" group-title="SPORTS",DASINYA SPORT
-https://panadatv.karwan.tv/dsneyaport/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport1.cz" tvg-logo="https://i.imgur.com/Q3WjH1Q.png" group-title="SPORTS",Canal+ Sport 1
 http://78.130.250.2:8023/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport2.pl" tvg-logo="https://i.imgur.com/Aq2hnUj.png" group-title="SPORTS",Canal+ Sport 2
@@ -335,346 +305,3 @@ http://109.233.89.166/Eleven_Sports_2_HD/index.m3u8
 http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
 #EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="SPORTS",Eleven Sports 4
 http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
-
-
-#EXTINF:-1 tvg-chno="3" tvg-id="" tvg-name="KU -  NRT ᴴᴰ" tvg-logo="https://lo1.in/krd/nrt.png" group-title="►AS | KURDISTAN",KU -  NRT ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381892
-#EXTINF:-1 tvg-chno="4" tvg-id="" tvg-name="KU -  NRT 2 ᴴᴰ" tvg-logo="https://lo1.in/krd/nrt2.png" group-title="►AS | KURDISTAN",KU -  NRT 2 ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381891
-#EXTINF:-1 tvg-chno="2" tvg-id="" tvg-name="##### KU -  KURDISH#####" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",##### KU -  KURDISH#####
-http://extraott-iptv.com:88/0229477349/8104258135/400162666
-#EXTINF:-1 tvg-chno="5" tvg-id="" tvg-name="KU -  NRT 3 KIDS ᴴᴰ" tvg-logo="https://lo1.in/krd/nrt3kd0.png" group-title="►AS | KURDISTAN",KU -  NRT 3 KIDS ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381810
-#EXTINF:-1 tvg-chno="6" tvg-id="" tvg-name="KU -  KURDMAX KURMANCI ᴴᴰ" tvg-logo="https://lo1.in/krd/kurdmx.png" group-title="►AS | KURDISTAN",KU -  KURDMAX KURMANCI ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381817
-#EXTINF:-1 tvg-chno="7" tvg-id="" tvg-name="KU -  ATV KURD ᴴᴰ" tvg-logo="https://lo1.in/krd/atvku.png" group-title="►AS | KURDISTAN",KU -  ATV KURD ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381898
-#EXTINF:-1 tvg-chno="8" tvg-id="" tvg-name="KU -  ARYEN TV ᴴᴰ" tvg-logo="https://lo1.in/krd/aryen.png" group-title="►AS | KURDISTAN",KU -  ARYEN TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381798
-#EXTINF:-1 tvg-chno="9" tvg-id="" tvg-name="KU -  CIRA TV ᴴᴰ" tvg-logo="https://lo1.in/krd/cira.png" group-title="►AS | KURDISTAN",KU -  CIRA TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381765
-#EXTINF:-1 tvg-chno="10" tvg-id="" tvg-name="KU -  MTBAMOKI ᴴᴰ" tvg-logo="https://lo1.in/krd/knn.png" group-title="►AS | KURDISTAN",KU -  MTBAMOKI ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381718
-#EXTINF:-1 tvg-chno="11" tvg-id="" tvg-name="KU -  KERKUK TV ᴴᴰ" tvg-logo="https://lo1.in/krd/kirk.png" group-title="►AS | KURDISTAN",KU -  KERKUK TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381806
-#EXTINF:-1 tvg-chno="12" tvg-id="" tvg-name="KU -  KURDISTAN TV ᴴᴰ" tvg-logo="https://lo1.in/krd/kurd.png" group-title="►AS | KURDISTAN",KU -  KURDISTAN TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381821
-#EXTINF:-1 tvg-chno="13" tvg-id="" tvg-name="KU -  KURDSAT TV ᴴᴰ" tvg-logo="https://lo1.in/krd/kurdst.png" group-title="►AS | KURDISTAN",KU -  KURDSAT TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381808
-#EXTINF:-1 tvg-chno="14" tvg-id="" tvg-name="KU -  KURDSAT NEWS ᴴᴰ" tvg-logo="https://lo1.in/krd/kudstns.png" group-title="►AS | KURDISTAN",KU -  KURDSAT NEWS ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381890
-#EXTINF:-1 tvg-chno="15" tvg-id="" tvg-name="KU -  MED MUZIK TV ᴴᴰ" tvg-logo="https://lo1.in/krd/medmz.png" group-title="►AS | KURDISTAN",KU -  MED MUZIK TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381797
-#EXTINF:-1 tvg-chno="16" tvg-id="" tvg-name="KU -  MEDYA HABER ᴴᴰ" tvg-logo="https://lo1.in/krd/medya0.png" group-title="►AS | KURDISTAN",KU -  MEDYA HABER ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381796
-#EXTINF:-1 tvg-chno="17" tvg-id="" tvg-name="KU -  MINARA TV ᴴᴰ" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU -  MINARA TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381662
-#EXTINF:-1 tvg-chno="18" tvg-id="" tvg-name="KU -  ROJAVA ᴴᴰ" tvg-logo="https://lo1.in/krd/roj.png" group-title="►AS | KURDISTAN",KU -  ROJAVA ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381886
-#EXTINF:-1 tvg-chno="19" tvg-id="" tvg-name="KU -  RONAHI ᴴᴰ" tvg-logo="https://lo1.in/krd/ron.png" group-title="►AS | KURDISTAN",KU -  RONAHI ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381887
-#EXTINF:-1 tvg-chno="20" tvg-id="" tvg-name="KU -  RUDAW TV ᴴᴰ" tvg-logo="https://lo1.in/krd/rud.png" group-title="►AS | KURDISTAN",KU -  RUDAW TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381824
-#EXTINF:-1 tvg-chno="21" tvg-id="" tvg-name="KU -  SPEDA TV ᴴᴰ" tvg-logo="https://lo1.in/krd/speda.png" group-title="►AS | KURDISTAN",KU -  SPEDA TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381804
-#EXTINF:-1 tvg-chno="22" tvg-id="" tvg-name="KU -  STERK TV ᴴᴰ" tvg-logo="https://lo1.in/krd/ster.png" group-title="►AS | KURDISTAN",KU -  STERK TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381799
-#EXTINF:-1 tvg-chno="23" tvg-id="" tvg-name="KU -  TRT KURDI ᴴᴰ" tvg-logo="https://lo1.in/krd/trt.png" group-title="►AS | KURDISTAN",KU -  TRT KURDI ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381888
-#EXTINF:-1 tvg-chno="24" tvg-id="" tvg-name="KU -  WAAR TV ᴴᴰ" tvg-logo="https://lo1.in/krd/war.png" group-title="►AS | KURDISTAN",KU -  WAAR TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381823
-#EXTINF:-1 tvg-chno="25" tvg-id="" tvg-name="KU -  ZAGROS TVᴴᴰ" tvg-logo="https://lo1.in/krd/zag.png" group-title="►AS | KURDISTAN",KU -  ZAGROS TVᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381820
-#EXTINF:-1 tvg-chno="26" tvg-id="" tvg-name="KU -  ZAROK TV ᴴᴰ" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU -  ZAROK TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381762
-#EXTINF:-1 tvg-chno="27" tvg-id="" tvg-name="##### KU -  VIP BADINI#####" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",##### KU -  VIP BADINI#####
-http://extraott-iptv.com:88/0229477349/8104258135/400162667
-#EXTINF:-1 tvg-chno="28" tvg-id="" tvg-name="KU -  NEWMAX MUSIC ᴴᴰ" tvg-logo="https://lo1.in/krd/nwmxmu.png" group-title="►AS | KURDISTAN",KU -  NEWMAX MUSIC ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381896
-#EXTINF:-1 tvg-chno="29" tvg-id="" tvg-name="KU -  DUHOK TV ᴴᴰ" tvg-logo="https://lo1.in/krd/duhok1.png" group-title="►AS | KURDISTAN",KU -  DUHOK TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381780
-#EXTINF:-1 tvg-chno="30" tvg-id="" tvg-name="KU -  NIROJ TV ᴴᴰ" tvg-logo="https://lo1.in/krd/nirj.png" group-title="►AS | KURDISTAN",KU -  NIROJ TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381770
-#EXTINF:-1 tvg-chno="31" tvg-id="" tvg-name="KU -  KURD MOVIES 1 ᴴᴰ" tvg-logo="https://lo1.in/krd/kurmv2.png" group-title="►AS | KURDISTAN",KU -  KURD MOVIES 1 ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381875
-#EXTINF:-1 tvg-chno="32" tvg-id="" tvg-name="KU -  KURD MOVIES 2 ᴴᴰ" tvg-logo="https://lo1.in/krd/kurmv2.png" group-title="►AS | KURDISTAN",KU -  KURD MOVIES 2 ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381874
-#EXTINF:-1 tvg-chno="33" tvg-id="" tvg-name="KU -  MMN CLIP ᴴᴰ" tvg-logo="https://lo1.in/krd/mmn.png" group-title="►AS | KURDISTAN",KU -  MMN CLIP ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381833
-#EXTINF:-1 tvg-chno="34" tvg-id="" tvg-name="KU -  HELHELOK TV ᴴᴰ" tvg-logo="https://lo1.in/krd/helok.png" group-title="►AS | KURDISTAN",KU -  HELHELOK TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381760
-#EXTINF:-1 tvg-chno="35" tvg-id="" tvg-name="KU -  NUBAR TV ᴴᴰ" tvg-logo="https://lo1.in/us/nub0.png" group-title="►AS | KURDISTAN",KU -  NUBAR TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381776
-#EXTINF:-1 tvg-chno="36" tvg-id="" tvg-name="KU -  NOHADRA ᴴᴰ" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU -  NOHADRA ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381862
-#EXTINF:-1 tvg-chno="37" tvg-id="" tvg-name="KU -  DASINYA TV ᴴᴰ" tvg-logo="https://lo1.in/krd/dasi.png" group-title="►AS | KURDISTAN",KU -  DASINYA TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381759
-#EXTINF:-1 tvg-chno="38" tvg-id="" tvg-name="KU -  DASINYA MUSIC ᴴᴰ" tvg-logo="https://lo1.in/krd/dasimu.png" group-title="►AS | KURDISTAN",KU -  DASINYA MUSIC ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381857
-#EXTINF:-1 tvg-chno="39" tvg-id="" tvg-name="KU -  DASINYA SPORT ᴴᴰ" tvg-logo="https://lo1.in/krd/dassp.png" group-title="►AS | KURDISTAN",KU -  DASINYA SPORT ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381858
-#EXTINF:-1 tvg-chno="40" tvg-id="" tvg-name="KU -  DASINYA KIDS ᴴᴰ" tvg-logo="https://lo1.in/krd/dasinkd.png" group-title="►AS | KURDISTAN",KU -  DASINYA KIDS ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381856
-#EXTINF:-1 tvg-chno="41" tvg-id="" tvg-name="KU -  KANI TV ᴴᴰ" tvg-logo="https://lo1.in/krd/kani.png" group-title="►AS | KURDISTAN",KU -  KANI TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381758
-#EXTINF:-1 tvg-chno="42" tvg-id="" tvg-name="##### KU -  NETEWEYAS#####" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",##### KU -  NETEWEYAS#####
-http://extraott-iptv.com:88/0229477349/8104258135/400162668
-#EXTINF:-1 tvg-chno="43" tvg-id="" tvg-name="KU -  ASMAN TV ᴴᴰ" tvg-logo="https://lo1.in/krd/asman.png" group-title="►AS | KURDISTAN",KU -  ASMAN TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381663
-#EXTINF:-1 tvg-chno="44" tvg-id="" tvg-name="KU -  ASO SPORT ᴴᴰ" tvg-logo="https://lo1.in/krd/asosp.png" group-title="►AS | KURDISTAN",KU -  ASO SPORT ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381694
-#EXTINF:-1 tvg-chno="45" tvg-id="" tvg-name="KU -  KOMALL TV ᴴᴰ" tvg-logo="https://lo1.in/krd/koma.png" group-title="►AS | KURDISTAN",KU -  KOMALL TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381661
-#EXTINF:-1 tvg-chno="46" tvg-id="" tvg-name="KU -  NISHTIMANY MN TV ᴴᴰ" tvg-logo="https://lo1.in/krd/nishmn.png" group-title="►AS | KURDISTAN",KU -  NISHTIMANY MN TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381696
-#EXTINF:-1 tvg-chno="47" tvg-id="" tvg-name="KU -  QALAT TV ᴴᴰ" tvg-logo="https://lo1.in/krd/qalat.png" group-title="►AS | KURDISTAN",KU -  QALAT TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381698
-#EXTINF:-1 tvg-chno="48" tvg-id="" tvg-name="KU -  ZED TV ᴴᴰ" tvg-logo="https://lo1.in/krd/zedpl.png" group-title="►AS | KURDISTAN",KU -  ZED TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381704
-#EXTINF:-1 tvg-chno="49" tvg-id="" tvg-name="##### KU -  VIP #####" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",##### KU -  VIP #####
-http://extraott-iptv.com:88/0229477349/8104258135/400162669
-#EXTINF:-1 tvg-chno="50" tvg-id="" tvg-name="##### KU -  VIP SORANI#####" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",##### KU -  VIP SORANI#####
-http://extraott-iptv.com:88/0229477349/8104258135/400162670
-#EXTINF:-1 tvg-chno="51" tvg-id="" tvg-name="KU -  MMN CLASSICAL MUSIC ᴴᴰ" tvg-logo="https://lo1.in/krd/mmnclms.png" group-title="►AS | KURDISTAN",KU -  MMN CLASSICAL MUSIC ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381682
-#EXTINF:-1 tvg-chno="52" tvg-id="" tvg-name="KU -  MMN KIDS ᴴᴰ" tvg-logo="https://lo1.in/krd/mmn.png" group-title="►AS | KURDISTAN",KU -  MMN KIDS ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381832
-#EXTINF:-1 tvg-chno="53" tvg-id="" tvg-name="KU -  MMN QURAN ᴴᴰ" tvg-logo="https://lo1.in/krd/mmn.png" group-title="►AS | KURDISTAN",KU -  MMN QURAN ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381829
-#EXTINF:-1 tvg-chno="54" tvg-id="" tvg-name="KU -  MMN MOVIES ᴴᴰ" tvg-logo="https://lo1.in/krd/mmn.png" group-title="►AS | KURDISTAN",KU -  MMN MOVIES ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381831
-#EXTINF:-1 tvg-chno="55" tvg-id="" tvg-name="KU -  AVA ENTERTAIMENT ᴴᴰ" tvg-logo="https://lo1.in/krd/avaen.png" group-title="►AS | KURDISTAN",KU -  AVA ENTERTAIMENT ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381897
-#EXTINF:-1 tvg-chno="56" tvg-id="" tvg-name="KU - KURDMAX PEPULE ᴴᴰ" tvg-logo="https://lo1.in/krd/kurdpep.png" group-title="►AS | KURDISTAN",KU - KURDMAX PEPULE ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/400219965
-#EXTINF:-1 tvg-chno="57" tvg-id="" tvg-name="KU -  AFARIN KIDS ᴴᴰ" tvg-logo="https://lo1.in/krd/afrkds.png" group-title="►AS | KURDISTAN",KU -  AFARIN KIDS ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381845
-#EXTINF:-1 tvg-chno="58" tvg-id="" tvg-name="KU -  ROJGAR ᴴᴰ" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU -  ROJGAR ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381828
-#EXTINF:-1 tvg-chno="59" tvg-id="" tvg-name="KU -  AMOZHGARY ᴴᴰ" tvg-logo="https://lo1.in/krd/amoz.png" group-title="►AS | KURDISTAN",KU -  AMOZHGARY ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381889
-#EXTINF:-1 tvg-chno="60" tvg-id="" tvg-name="KU -  IRAQIA KURDI ᴴᴰ" tvg-logo="https://lo1.in/krd/iraqk.png" group-title="►AS | KURDISTAN",KU -  IRAQIA KURDI ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381800
-#EXTINF:-1 tvg-chno="61" tvg-id="" tvg-name="KU -  4KURD ᴴᴰ" tvg-logo="https://lo1.in/krd/4krd.png" group-title="►AS | KURDISTAN",KU -  4KURD ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381731
-#EXTINF:-1 tvg-chno="62" tvg-id="" tvg-name="KU -  DERIN TV" tvg-logo="https://lo1.in/krd/znar.png" group-title="►AS | KURDISTAN",KU -  DERIN TV
-http://extraott-iptv.com:88/0229477349/8104258135/381646
-#EXTINF:-1 tvg-chno="63" tvg-id="" tvg-name="KU -  KURDMAX SORANI ᴴᴰ" tvg-logo="https://lo1.in/krd/kurdmx.png" group-title="►AS | KURDISTAN",KU -  KURDMAX SORANI ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381815
-#EXTINF:-1 tvg-chno="64" tvg-id="" tvg-name="KU -  BARAN TV ᴴᴰ" tvg-logo="https://lo1.in/krd/bran.png" group-title="►AS | KURDISTAN",KU -  BARAN TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381655
-#EXTINF:-1 tvg-chno="65" tvg-id="" tvg-name="KU -  GELI KURDISTAN TV ᴴᴰ" tvg-logo="https://lo1.in/krd/geldi.png" group-title="►AS | KURDISTAN",KU -  GELI KURDISTAN TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381688
-#EXTINF:-1 tvg-chno="66" tvg-id="" tvg-name="KU - DELAL TV ᴴᴰ" tvg-logo="https://lo1.in/krd/dela.png" group-title="►AS | KURDISTAN",KU - DELAL TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/400219964
-#EXTINF:-1 tvg-chno="67" tvg-id="" tvg-name="KU - Zaxo TV" tvg-logo="https://lo1.in/krd/zax.png" group-title="►AS | KURDISTAN",KU - Zaxo TV
-http://extraott-iptv.com:88/0229477349/8104258135/400250958
-#EXTINF:-1 tvg-chno="68" tvg-id="" tvg-name="KU - MMN ACTION HD" tvg-logo="https://lo1.in/krd/mmnact.png" group-title="►AS | KURDISTAN",KU - MMN ACTION HD
-http://extraott-iptv.com:88/0229477349/8104258135/40008
-#EXTINF:-1 tvg-chno="69" tvg-id="" tvg-name="KU - MMN SHOW ᴴᴰ" tvg-logo="https://lo1.in/krd/mmn.png" group-title="►AS | KURDISTAN",KU - MMN SHOW ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/400162234
-#EXTINF:-1 tvg-chno="70" tvg-id="" tvg-name="MMN RADIO TURKEY ᴴᴰ" tvg-logo="https://lo1.in/krd/mmn.png" group-title="►AS | KURDISTAN",MMN RADIO TURKEY ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/400162235
-#EXTINF:-1 tvg-chno="71" tvg-id="" tvg-name="KU -  DEVER TV ᴴᴰ" tvg-logo="https://lo1.in/krd/dever.png" group-title="►AS | KURDISTAN",KU -  DEVER TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381757
-#EXTINF:-1 tvg-chno="72" tvg-id="" tvg-name="KU -  BEFRIN TV ᴴᴰ" tvg-logo="https://lo1.in/krd/befrin.png" group-title="►AS | KURDISTAN",KU -  BEFRIN TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381775
-#EXTINF:-1 tvg-chno="73" tvg-id="" tvg-name="KU - ARO KIDS HD" tvg-logo="https://lo1.in/krd/aroki.png" group-title="►AS | KURDISTAN",KU - ARO KIDS HD
-http://extraott-iptv.com:88/0229477349/8104258135/40005
-#EXTINF:-1 tvg-chno="74" tvg-id="" tvg-name="KU - LIKE MOVIES HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - LIKE MOVIES HD
-http://extraott-iptv.com:88/0229477349/8104258135/40011
-#EXTINF:-1 tvg-chno="75" tvg-id="" tvg-name="KU -  AZADI ᴴᴰ" tvg-logo="https://lo1.in/krd/azadi.png" group-title="►AS | KURDISTAN",KU -  AZADI ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381656
-#EXTINF:-1 tvg-chno="76" tvg-id="" tvg-name="KU - IRIB KORDESTAN HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - IRIB KORDESTAN HD
-http://extraott-iptv.com:88/0229477349/8104258135/40015
-#EXTINF:-1 tvg-chno="77" tvg-id="" tvg-name="KU - NUJEN TV HD" tvg-logo="https://lo1.in/krd/nujn.png" group-title="►AS | KURDISTAN",KU - NUJEN TV HD
-http://extraott-iptv.com:88/0229477349/8104258135/40020
-#EXTINF:-1 tvg-chno="78" tvg-id="" tvg-name="KU -  NRT 4 ᴴᴰ" tvg-logo="https://lo1.in/krd/nrt4.png" group-title="►AS | KURDISTAN",KU -  NRT 4 ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381809
-#EXTINF:-1 tvg-chno="79" tvg-id="" tvg-name="KU -  EZDAN TV" tvg-logo="https://lo1.in/krd/ezdan.png" group-title="►AS | KURDISTAN",KU -  EZDAN TV
-http://extraott-iptv.com:88/0229477349/8104258135/381753
-#EXTINF:-1 tvg-chno="80" tvg-id="" tvg-name="KU -  PARWARDAYI DUHOK TV ᴴᴰ" tvg-logo="https://lo1.in/krd/duhok1.png" group-title="►AS | KURDISTAN",KU -  PARWARDAYI DUHOK TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381777
-#EXTINF:-1 tvg-chno="81" tvg-id="" tvg-name="KU -  ARTI TV ᴴᴰ" tvg-logo="https://lo1.in/krd/arti.png" group-title="►AS | KURDISTAN",KU -  ARTI TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381795
-#EXTINF:-1 tvg-chno="82" tvg-id="" tvg-name="KU -  WASELA QURAN ᴴᴰ" tvg-logo="https://lo1.in/krd/wasqrn.png" group-title="►AS | KURDISTAN",KU -  WASELA QURAN ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381803
-#EXTINF:-1 tvg-chno="83" tvg-id="" tvg-name="KU -  PAYAM TV ᴴᴰ" tvg-logo="https://lo1.in/krd/payam.png" group-title="►AS | KURDISTAN",KU -  PAYAM TV ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381807
-#EXTINF:-1 tvg-chno="84" tvg-id="" tvg-name="KU -  CIHAN ᴴᴰ" tvg-logo="https://lo1.in/krd/cihan.png" group-title="►AS | KURDISTAN",KU -  CIHAN ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381844
-#EXTINF:-1 tvg-chno="85" tvg-id="" tvg-name="KU -  KAZIWA ᴴᴰ" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU -  KAZIWA ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381846
-#EXTINF:-1 tvg-chno="86" tvg-id="" tvg-name="KU -  DUHOK SPORTS ᴴᴰ" tvg-logo="https://lo1.in/krd/duhok.png" group-title="►AS | KURDISTAN",KU -  DUHOK SPORTS ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381864
-#EXTINF:-1 tvg-chno="87" tvg-id="" tvg-name="KU -  JIN ᴴᴰ" tvg-logo="https://lo1.in/krd/jin.png" group-title="►AS | KURDISTAN",KU -  JIN ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381885
-#EXTINF:-1 tvg-chno="88" tvg-id="" tvg-name="KU -  KURDISTAN 24 ᴴᴰ" tvg-logo="https://lo1.in/krd/kurdis24.png" group-title="►AS | KURDISTAN",KU -  KURDISTAN 24 ᴴᴰ
-http://extraott-iptv.com:88/0229477349/8104258135/381899
-#EXTINF:-1 tvg-chno="89" tvg-id="" tvg-name="EZD - Ezidxan TV" tvg-logo="https://lo1.in/af/ezidxan.png" group-title="►AS | KURDISTAN",EZD - Ezidxan TV
-http://extraott-iptv.com:88/0229477349/8104258135/400230237
-#EXTINF:-1 tvg-chno="90" tvg-id="" tvg-name="KU - KURDMAX SHOW HD" tvg-logo="https://lo1.in/krd/show.png" group-title="►AS | KURDISTAN",KU - KURDMAX SHOW HD
-http://extraott-iptv.com:88/0229477349/8104258135/36180
-#EXTINF:-1 tvg-chno="91" tvg-id="" tvg-name="KU - BANGWAZ SD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - BANGWAZ SD
-http://extraott-iptv.com:88/0229477349/8104258135/36184
-#EXTINF:-1 tvg-chno="92" tvg-id="" tvg-name="KU - ZED+ HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - ZED+ HD
-http://extraott-iptv.com:88/0229477349/8104258135/36186
-#EXTINF:-1 tvg-chno="93" tvg-id="" tvg-name="KU - RENG FHD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - RENG FHD
-http://extraott-iptv.com:88/0229477349/8104258135/36189
-#EXTINF:-1 tvg-chno="94" tvg-id="" tvg-name="KU - NIGA KIDS FHD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - NIGA KIDS FHD
-http://extraott-iptv.com:88/0229477349/8104258135/36193
-#EXTINF:-1 tvg-chno="95" tvg-id="" tvg-name="KU - NIGA FAMILY HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - NIGA FAMILY HD
-http://extraott-iptv.com:88/0229477349/8104258135/36194
-#EXTINF:-1 tvg-chno="96" tvg-id="" tvg-name="KU - MR. BEAN HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - MR. BEAN HD
-http://extraott-iptv.com:88/0229477349/8104258135/36195
-#EXTINF:-1 tvg-chno="97" tvg-id="" tvg-name="KU - KRD WWE HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - KRD WWE HD
-http://extraott-iptv.com:88/0229477349/8104258135/36199
-#EXTINF:-1 tvg-chno="98" tvg-id="" tvg-name="KU - GK HAWLER FHD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - GK HAWLER FHD
-http://extraott-iptv.com:88/0229477349/8104258135/36201
-#EXTINF:-1 tvg-chno="99" tvg-id="" tvg-name="KU - GALI KURDISTAN TV SD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - GALI KURDISTAN TV SD
-http://extraott-iptv.com:88/0229477349/8104258135/36203
-#EXTINF:-1 tvg-chno="100" tvg-id="" tvg-name="KU - BANGXWAZEN BADINAN TV FHD" tvg-logo="https://lo1.in/krd/badin.png" group-title="►AS | KURDISTAN",KU - BANGXWAZEN BADINAN TV FHD
-http://extraott-iptv.com:88/0229477349/8104258135/80141
-#EXTINF:-1 tvg-chno="101" tvg-id="" tvg-name="KU - BARIN QURAN FHD" tvg-logo="https://lo1.in/krd/bainqrn.png" group-title="►AS | KURDISTAN",KU - BARIN QURAN FHD
-http://extraott-iptv.com:88/0229477349/8104258135/80142
-#EXTINF:-1 tvg-chno="102" tvg-id="" tvg-name="KU - KALAPOR TV SD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - KALAPOR TV SD
-http://extraott-iptv.com:88/0229477349/8104258135/80144
-#EXTINF:-1 tvg-chno="103" tvg-id="" tvg-name="KU - MAHABAD TV SD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - MAHABAD TV SD
-http://extraott-iptv.com:88/0229477349/8104258135/80147
-#EXTINF:-1 tvg-chno="104" tvg-id="" tvg-name="KU - BARIN FAMILY HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - BARIN FAMILY HD
-http://extraott-iptv.com:88/0229477349/8104258135/80149
-#EXTINF:-1 tvg-chno="105" tvg-id="" tvg-name="KU - NUBAR SPORT FHD" tvg-logo="https://lo1.in/krd/numsp.png" group-title="►AS | KURDISTAN",KU - NUBAR SPORT FHD
-http://extraott-iptv.com:88/0229477349/8104258135/80151
-#EXTINF:-1 tvg-chno="106" tvg-id="" tvg-name="KU - NIGA MOVIES FHD" tvg-logo="https://lo1.in/krd/nigmv.png" group-title="►AS | KURDISTAN",KU - NIGA MOVIES FHD
-http://extraott-iptv.com:88/0229477349/8104258135/80154
-#EXTINF:-1 tvg-chno="107" tvg-id="" tvg-name="KU - K24 DOCUMENTARY HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - K24 DOCUMENTARY HD
-http://extraott-iptv.com:88/0229477349/8104258135/473467
-#EXTINF:-1 tvg-chno="108" tvg-id="" tvg-name="KU - SAHAR KURDI" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - SAHAR KURDI
-http://extraott-iptv.com:88/0229477349/8104258135/473465
-#EXTINF:-1 tvg-chno="109" tvg-id="" tvg-name="KU - ASTERA FAMILY HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - ASTERA FAMILY HD
-http://extraott-iptv.com:88/0229477349/8104258135/473463
-#EXTINF:-1 tvg-chno="110" tvg-id="" tvg-name="KU - NEWLINE HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - NEWLINE HD
-http://extraott-iptv.com:88/0229477349/8104258135/473457
-#EXTINF:-1 tvg-chno="111" tvg-id="" tvg-name="KU - AVA TV HD" tvg-logo="https://lo1.in/krd/avaen.png" group-title="►AS | KURDISTAN",KU - AVA TV HD
-http://extraott-iptv.com:88/0229477349/8104258135/473455
-#EXTINF:-1 tvg-chno="112" tvg-id="" tvg-name="KU - PSHDAR HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - PSHDAR HD
-http://extraott-iptv.com:88/0229477349/8104258135/473449
-#EXTINF:-1 tvg-chno="113" tvg-id="" tvg-name="KU - K24 FHD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - K24 FHD
-http://extraott-iptv.com:88/0229477349/8104258135/39493
-#EXTINF:-1 tvg-chno="114" tvg-id="" tvg-name="KU - SUROYO TV HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - SUROYO TV HD
-http://extraott-iptv.com:88/0229477349/8104258135/39492
-#EXTINF:-1 tvg-chno="115" tvg-id="" tvg-name="KU - SUBORO TV HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - SUBORO TV HD
-http://extraott-iptv.com:88/0229477349/8104258135/39491
-#EXTINF:-1 tvg-chno="116" tvg-id="" tvg-name="KU - ASTERA SPORT  HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - ASTERA SPORT  HD
-http://extraott-iptv.com:88/0229477349/8104258135/39487
-#EXTINF:-1 tvg-chno="117" tvg-id="" tvg-name="KU - DAHEN TV  HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - DAHEN TV  HD
-http://extraott-iptv.com:88/0229477349/8104258135/39486
-#EXTINF:-1 tvg-chno="118" tvg-id="" tvg-name="KU - U TV  HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - U TV  HD
-http://extraott-iptv.com:88/0229477349/8104258135/39485
-#EXTINF:-1 tvg-chno="119" tvg-id="" tvg-name="KU - DERWAZA MUSIC  HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - DERWAZA MUSIC  HD
-http://extraott-iptv.com:88/0229477349/8104258135/39484
-#EXTINF:-1 tvg-chno="120" tvg-id="" tvg-name="KU - KURDMAX HD (KURMAJI)  HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - KURDMAX HD (KURMAJI)  HD
-http://extraott-iptv.com:88/0229477349/8104258135/39482
-#EXTINF:-1 tvg-chno="121" tvg-id="" tvg-name="KU - KOMALA TV / SHORA TV HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - KOMALA TV / SHORA TV HD
-http://extraott-iptv.com:88/0229477349/8104258135/39480
-#EXTINF:-1 tvg-chno="122" tvg-id="" tvg-name="KU - KTV FHD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - KTV FHD
-http://extraott-iptv.com:88/0229477349/8104258135/39470
-#EXTINF:-1 tvg-chno="123" tvg-id="" tvg-name="|KU - EURO KURD HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",|KU - EURO KURD HD
-http://extraott-iptv.com:88/0229477349/8104258135/37026
-#EXTINF:-1 tvg-chno="124" tvg-id="" tvg-name="|KU - DERIN TV" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",|KU - DERIN TV
-http://extraott-iptv.com:88/0229477349/8104258135/37023
-#EXTINF:-1 tvg-chno="125" tvg-id="" tvg-name="|KU - SHAKROK KIDS" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",|KU - SHAKROK KIDS
-http://extraott-iptv.com:88/0229477349/8104258135/37020
-#EXTINF:-1 tvg-chno="126" tvg-id="" tvg-name="|KU - SADA TV" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",|KU - SADA TV
-http://extraott-iptv.com:88/0229477349/8104258135/37019
-#EXTINF:-1 tvg-chno="127" tvg-id="" tvg-name="|KU - KURD CHANNEL" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",|KU - KURD CHANNEL
-http://extraott-iptv.com:88/0229477349/8104258135/37018
-#EXTINF:-1 tvg-chno="128" tvg-id="" tvg-name="ku - KURDCINEMA 1" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - KURDCINEMA 1
-http://extraott-iptv.com:88/0229477349/8104258135/37015
-#EXTINF:-1 tvg-chno="129" tvg-id="" tvg-name="ku - KURDCINEMA 2" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - KURDCINEMA 2
-http://extraott-iptv.com:88/0229477349/8104258135/37014
-#EXTINF:-1 tvg-chno="130" tvg-id="" tvg-name="ku - Afarin Baxcha TV" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Afarin Baxcha TV
-http://extraott-iptv.com:88/0229477349/8104258135/37011
-#EXTINF:-1 tvg-chno="131" tvg-id="" tvg-name="ku - AGN Sat" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - AGN Sat
-http://extraott-iptv.com:88/0229477349/8104258135/37010
-#EXTINF:-1 tvg-chno="132" tvg-id="" tvg-name="ku - Aro Drama" tvg-logo="https://lo1.in/krd/aroki.png" group-title="►AS | KURDISTAN",ku - Aro Drama
-http://extraott-iptv.com:88/0229477349/8104258135/37009
-#EXTINF:-1 tvg-chno="133" tvg-id="" tvg-name="ku - Aro Family" tvg-logo="https://lo1.in/krd/aroki.png" group-title="►AS | KURDISTAN",ku - Aro Family
-http://extraott-iptv.com:88/0229477349/8104258135/37008
-#EXTINF:-1 tvg-chno="134" tvg-id="" tvg-name="ku - Barin HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Barin HD
-http://extraott-iptv.com:88/0229477349/8104258135/37002
-#EXTINF:-1 tvg-chno="135" tvg-id="" tvg-name="ku - Barin Movies HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Barin Movies HD
-http://extraott-iptv.com:88/0229477349/8104258135/37001
-#EXTINF:-1 tvg-chno="136" tvg-id="" tvg-name="ku - BK4 HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - BK4 HD
-http://extraott-iptv.com:88/0229477349/8104258135/37000
-#EXTINF:-1 tvg-chno="137" tvg-id="" tvg-name="ku - Eman TV" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Eman TV
-http://extraott-iptv.com:88/0229477349/8104258135/36996
-#EXTINF:-1 tvg-chno="138" tvg-id="" tvg-name="ku - First HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - First HD
-http://extraott-iptv.com:88/0229477349/8104258135/36994
-#EXTINF:-1 tvg-chno="139" tvg-id="" tvg-name="ku - Gewher HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Gewher HD
-http://extraott-iptv.com:88/0229477349/8104258135/36993
-#EXTINF:-1 tvg-chno="140" tvg-id="" tvg-name="ku - Halabja HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Halabja HD
-http://extraott-iptv.com:88/0229477349/8104258135/36992
-#EXTINF:-1 tvg-chno="141" tvg-id="" tvg-name="ku - Hormzyar HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Hormzyar HD
-http://extraott-iptv.com:88/0229477349/8104258135/36991
-#EXTINF:-1 tvg-chno="142" tvg-id="" tvg-name="ku - Jamawar TV HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Jamawar TV HD
-http://extraott-iptv.com:88/0229477349/8104258135/36990
-#EXTINF:-1 tvg-chno="143" tvg-id="" tvg-name="ku - Kerkuk Quran HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Kerkuk Quran HD
-http://extraott-iptv.com:88/0229477349/8104258135/36988
-#EXTINF:-1 tvg-chno="144" tvg-id="" tvg-name="ku - Khak HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Khak HD
-http://extraott-iptv.com:88/0229477349/8104258135/36987
-#EXTINF:-1 tvg-chno="145" tvg-id="" tvg-name="ku - Lawan HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Lawan HD
-http://extraott-iptv.com:88/0229477349/8104258135/36957
-#EXTINF:-1 tvg-chno="146" tvg-id="" tvg-name="ku - LD Sport" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - LD Sport
-http://extraott-iptv.com:88/0229477349/8104258135/36956
-#EXTINF:-1 tvg-chno="147" tvg-id="" tvg-name="ku - Mihrab TV" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Mihrab TV
-http://extraott-iptv.com:88/0229477349/8104258135/36953
-#EXTINF:-1 tvg-chno="148" tvg-id="" tvg-name="ku - Newline 2 HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Newline 2 HD
-http://extraott-iptv.com:88/0229477349/8104258135/36950
-#EXTINF:-1 tvg-chno="149" tvg-id="" tvg-name="ku - Newline Kids HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Newline Kids HD
-http://extraott-iptv.com:88/0229477349/8104258135/36949
-#EXTINF:-1 tvg-chno="150" tvg-id="" tvg-name="ku - Newline Movies HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Newline Movies HD
-http://extraott-iptv.com:88/0229477349/8104258135/36948
-#EXTINF:-1 tvg-chno="151" tvg-id="" tvg-name="ku - Newline Sport HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Newline Sport HD
-http://extraott-iptv.com:88/0229477349/8104258135/36947
-#EXTINF:-1 tvg-chno="152" tvg-id="" tvg-name="ku - Newline Bollywood HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Newline Bollywood HD
-http://extraott-iptv.com:88/0229477349/8104258135/36946
-#EXTINF:-1 tvg-chno="153" tvg-id="" tvg-name="ku - NRT 2 Sorani" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - NRT 2 Sorani
-http://extraott-iptv.com:88/0229477349/8104258135/36940
-#EXTINF:-1 tvg-chno="154" tvg-id="" tvg-name="ku - NRT Sport" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - NRT Sport
-http://extraott-iptv.com:88/0229477349/8104258135/36939
-#EXTINF:-1 tvg-chno="155" tvg-id="" tvg-name="ku - Nubar Plus" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Nubar Plus
-http://extraott-iptv.com:88/0229477349/8104258135/36938
-#EXTINF:-1 tvg-chno="156" tvg-id="" tvg-name="ku - One HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - One HD
-http://extraott-iptv.com:88/0229477349/8104258135/36937
-#EXTINF:-1 tvg-chno="157" tvg-id="" tvg-name="ku - Pirooz TV HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Pirooz TV HD
-http://extraott-iptv.com:88/0229477349/8104258135/36936
-#EXTINF:-1 tvg-chno="158" tvg-id="" tvg-name="ku - Qalam Ayini HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Qalam Ayini HD
-http://extraott-iptv.com:88/0229477349/8104258135/36934
-#EXTINF:-1 tvg-chno="159" tvg-id="" tvg-name="ku - Ranya HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Ranya HD
-http://extraott-iptv.com:88/0229477349/8104258135/36933
-#EXTINF:-1 tvg-chno="160" tvg-id="" tvg-name="ku - Ravand HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Ravand HD
-http://extraott-iptv.com:88/0229477349/8104258135/36931
-#EXTINF:-1 tvg-chno="161" tvg-id="" tvg-name="ku - Rojhelat TV" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Rojhelat TV
-http://extraott-iptv.com:88/0229477349/8104258135/36929
-#EXTINF:-1 tvg-chno="162" tvg-id="" tvg-name="ku - Rozh HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Rozh HD
-http://extraott-iptv.com:88/0229477349/8104258135/36928
-#EXTINF:-1 tvg-chno="163" tvg-id="" tvg-name="ku - Rubar HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Rubar HD
-http://extraott-iptv.com:88/0229477349/8104258135/36927
-#EXTINF:-1 tvg-chno="164" tvg-id="" tvg-name="ku - Shaista HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Shaista HD
-http://extraott-iptv.com:88/0229477349/8104258135/36924
-#EXTINF:-1 tvg-chno="165" tvg-id="" tvg-name="ku - Sima Documentary HD" tvg-logo="https://lo1.in/krd/sima.png" group-title="►AS | KURDISTAN",ku - Sima Documentary HD
-http://extraott-iptv.com:88/0229477349/8104258135/36922
-#EXTINF:-1 tvg-chno="166" tvg-id="" tvg-name="ku - Sima Movies HD" tvg-logo="https://lo1.in/krd/sima.png" group-title="►AS | KURDISTAN",ku - Sima Movies HD
-http://extraott-iptv.com:88/0229477349/8104258135/36921
-#EXTINF:-1 tvg-chno="167" tvg-id="" tvg-name="ku - Sima FHD" tvg-logo="https://lo1.in/krd/sima.png" group-title="►AS | KURDISTAN",ku - Sima FHD
-http://extraott-iptv.com:88/0229477349/8104258135/36920
-#EXTINF:-1 tvg-chno="168" tvg-id="" tvg-name="ku - Slemani HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Slemani HD
-http://extraott-iptv.com:88/0229477349/8104258135/36919
-#EXTINF:-1 tvg-chno="169" tvg-id="" tvg-name="ku - Zaxo Sport" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Zaxo Sport
-http://extraott-iptv.com:88/0229477349/8104258135/36885
-#EXTINF:-1 tvg-chno="170" tvg-id="" tvg-name="ku - Zever HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",ku - Zever HD
-http://extraott-iptv.com:88/0229477349/8104258135/36884
-#EXTINF:-1 tvg-chno="171" tvg-id="" tvg-name="KU - Xezan TV HD" tvg-logo="https://lo1.in/krd/flg.png" group-title="►AS | KURDISTAN",KU - Xezan TV HD
-http://extraott-iptv.com:88/0229477349/8104258135/23390
-
