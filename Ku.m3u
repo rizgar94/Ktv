@@ -5,6 +5,8 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/074317bd-f13d-4ff3-b7d0-39381b47064e.png" group-title="QURAN",FERMUDA TV
 http://avrstream.com:1935/live/FarmodaTV/chunklist_w408089479.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jR7GsS7B/amojgari.png" group-title="QURAN",AMOJGARI
+https://app-live.org/live/3268334b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/5ecaddc2-891a-4b6d-95df-e9d79f09cc43.png" group-title="QURAN",BARIN QURAN
 http://baskhd.ddns.net:40/live/QURANHDTV/HawezHD.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/c0e5bd7f-9620-4467-b5bc-11f0da824461.png" group-title="QURAN",ZEVER HD
@@ -197,6 +199,8 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u
 http://178.219.128.68:64888/KINOTV
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1edbb309-7b1a-475f-8cb2-4b5c8512c01d.png" group-title="DOCUMENTARY",MNM DOCUMENTARY
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/chunklist_w607559860.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N00seOn.png" group-title="DOCUMENTARY",ANIMAL BOX
+http://avrstream.com:1935/live/animalbox/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/e91892aa-6dbf-4f91-991b-5aa3f619bce9.png" group-title="DOCUMENTARY",NAT GEO WILD
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/pictures/685.png" group-title="DOCUMENTARY",NAT GEO ABU DHABI
@@ -235,8 +239,14 @@ http://178.219.128.68:64889/NATIGEOGHD
 http://178.219.128.68:64888/POLSVIASHISTHD
 #EXTINF:-1 tvg-id="PolsatViasatNature.pl" tvg-logo="https://i.imgur.com/TUcM0oS.png" group-title="DOCUMENTARY",Polsat Viasat Nature
 http://178.219.128.68:64888/POLSVIASNATUHD
+#EXTINF:-1 tvg-id="WildEarth.uk" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="DOCUMENTARY",WILD EARTH
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="KIDS",AVAR KIDS
 http://avrstream.com:1935/live/AvarTv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnime.it" tvg-logo="https://i.imgur.com/bvbn8pa.png" group-title="KIDS",Pluto TV Anime
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="KIDS",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://zindikurmanci.zaroktv.com.tr/logo" group-title="KIDS",ZAROK TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="KIDS",Nickelodeon
