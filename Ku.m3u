@@ -51,24 +51,14 @@ http://next.badinan.xyz:1935/nexttv/FHD/playlist.m3u8
 http://duhok.badinan.xyz:1935/live/DuhokTV/chunklist_w1036962996.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/diyargulli/MyFiles/main/tv_logos/New%20Project.webp" group-title="FREE TV",TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/2804a683-5235-43ff-be69-4713e624a1fe.png" group-title="VIP TV",NEWLINE 1
-http://line.now-ott.xyz/live/451AAD/%203f41a2/89653.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/3cd7286c-23f8-4bf5-8245-31518ade9e2e.png" group-title="VIP TV",NEWLINE 2
-http://line.now-ott.xyz/live/451AAD/%203f41a2/89652.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/zed.png" group-title="VIP TV",ZED HD
-http://line.now-ott.xyz/live/451AAD/%203f41a2/89636.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/dvVj4Bt4/ava.png" group-title="FREE TV",AVA TV
 https://ava4.site/upload//images/avahd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://trt-public-static.trt.com.tr/trt1/public/dm_upload/modul4/cee3e1b4-e151-43a4-9ffd-914cd735981c.jpg" group-title="FREE TV",TRT 1
 http://185.234.111.229:8000/play/a00c
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hSZPXbwj/aro-family.png" group-title="VIP TV",ARO FAMILY
-http://line.now-ott.xyz/live/451AAD/%203f41a2/1443587.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rwXvvg8/Screenshot-20240728-202556-2.png" group-title="FREE TV",NIROJ TV
 http://142.132.133.190:1935/live/Niroj_HD/chunklist_w713715543.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/c741fac8-4660-4fd2-99d5-2ab1e531b600.png" group-title="FREE TV",HALABJA 88
 http://halabjatv.ddns.net:40/live/halabjatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/kqpWmBkS/kalpr.png" group-title="VIP TV",KALAPOR
-http://line.now-ott.xyz/live/451AAD/%203f41a2/1443595.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/5ecaddc2-891a-4b6d-95df-e9d79f09cc43.png" group-title="FREE TV",BARIN FAMILY
 http://baskhd.ddns.net:40/live/BarinfamilyHD/HawezHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/c1742260-dde2-436d-a542-73b3cb22b77a.png" group-title="FREE TV",GEWHER HD
@@ -77,8 +67,6 @@ http://avrstream.com:1935/live/Gewher-HD/playlist.m3u8
 http://qellat.myftp.org:1935/live/Qellat_tv/chunklist_w1831598703.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/756cf56e-ad28-44ce-81a3-17dc69478b17.png" group-title="FREE TV",SORAN ENT
 http://avrstream.com:1935/live/SoranEntertainment/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/177938f3-07a3-4cb8-a7fd-fc86401c8ef4.png" group-title="VIP TV",SHAISTA HD
-http://line.now-ott.xyz/live/451AAD/%203f41a2/89642.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/17bb32c2-0cdd-469c-9bd2-7d1235b31b05.png" group-title="FREE TV",BNAR 4K
 http://baskhd.ddns.net:40/live/bnar4k/chunklist_w1879313083.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/b3e45378-3bef-4b62-9711-e55332dd7c68.png" group-title="FREE TV",CANAL 8 KURDI
@@ -103,8 +91,6 @@ http://avrstream.com:1935/live/BEFRIN-HD/playlist.m3u8
 http://176.65.128.171/live:.cid.651406f830eed3072/df3cHkaUue/1433.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/9fffd492-02d3-4c74-8ed4-68984303e125.png" group-title="FREE TV",BADINAN
 http://bangxwazen.badinan.xyz:1935/live/Bangxwazen-Badinan/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/ef4cc827-bdb0-49b3-97d7-3706c93ef0db.png" group-title="VIP TV",RESEN HD
-http://line.now-ott.xyz/live/451AAD/%203f41a2/723217.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/a46ecb14-18f1-485e-aac6-a6ee865cca78.png" group-title="FREE TV",HORMZYAR
 http://avrstream.com:1935/live/HormzyarHD/chunklist_w459232276.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/bec87879-dc44-4a64-901a-a1c21264f421.png" group-title="FREE TV",SADA TV
@@ -117,6 +103,22 @@ https://6476e46b58f91.streamlock.net/liveTrans/SHOW2/playlist.m3u8
 http://avrstream.com:1935/live/AvarTv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nxR9J5Ph/SHAR.png" group-title="FREE TV",SHAR TV
 http://avrstream.com:1935/live/SHARTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pencil-in-circle4975.logowik.com.webp" group-title="FREE TV",QALLAM TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/qallamtvlocal/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/zed.png" group-title="VIP TV",ZED HD
+http://line.now-ott.xyz/live/451AAD/%203f41a2/89636.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/2804a683-5235-43ff-be69-4713e624a1fe.png" group-title="VIP TV",NEWLINE 1
+http://line.now-ott.xyz/live/451AAD/%203f41a2/89653.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/3cd7286c-23f8-4bf5-8245-31518ade9e2e.png" group-title="VIP TV",NEWLINE 2
+http://line.now-ott.xyz/live/451AAD/%203f41a2/89652.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hSZPXbwj/aro-family.png" group-title="VIP TV",ARO FAMILY
+http://line.now-ott.xyz/live/451AAD/%203f41a2/1443587.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/kqpWmBkS/kalpr.png" group-title="VIP TV",KALAPOR
+http://line.now-ott.xyz/live/451AAD/%203f41a2/1443595.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/177938f3-07a3-4cb8-a7fd-fc86401c8ef4.png" group-title="VIP TV",SHAISTA HD
+http://line.now-ott.xyz/live/451AAD/%203f41a2/89642.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/ef4cc827-bdb0-49b3-97d7-3706c93ef0db.png" group-title="VIP TV",RESEN HD
+http://line.now-ott.xyz/live/451AAD/%203f41a2/723217.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/3fd4e7fc-649b-47c9-914f-a4339311befb.png" group-title="VIP TV",DASINYA TV
 http://extraott-iptv.com:88/live/0229477349/8104258135/381759.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://mixmedia.tv/wp-content/uploads/2020/06/Delal-TV.jpg" group-title="VIP TV",DELAL TV
@@ -155,22 +157,22 @@ http://extraott-iptv.com:88//live/0229477349/8104258135/39486.ts
 http://extraott-iptv.com:88//live/0229477349/8104258135/36919.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/655944e5-1552-48d9-8528-beed15572392.png" group-title="VIP TV",ASTERA MOVIES
 http://line.now-ott.xyz/live/451AAD/%203f41a2/89682.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://go4.pw/KURDISH/Zed%20Plus.png" group-title="VIP TV",ZED PLUS
+http://line.now-ott.xyz/live/451AAD/%203f41a2/741941.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/4JYJGg10/NDRAMA.png" group-title="VIP TV",NEWLINE DRAMA
+http://line.now-ott.xyz/live/451AAD/%203f41a2/1443623.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZTPSPxJT/nmovies.png" group-title="VIP TV",NEWLINE MOVIES
+http://line.now-ott.xyz/live/451AAD/%203f41a2/741933.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/7530eab0-7389-4de6-a3db-05d75a958ac5.png" group-title="MOVIES",BARIN MOVIES
 http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/17bb32c2-0cdd-469c-9bd2-7d1235b31b05.png" group-title="MOVIES",BNAR MOVIES
 http://baskhd.ddns.net:40/live//bnarmovies/.bnartvhdsestmok.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://go4.pw/KURDISH/Zed%20Plus.png" group-title="VIP TV",ZED PLUS
-http://line.now-ott.xyz/live/451AAD/%203f41a2/741941.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/97eb34ff-8f1e-4aa7-88c3-19047f070a7e.png" group-title="MOVIES",MNM MOVIES
 http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist_w2101108385.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/97eb34ff-8f1e-4aa7-88c3-19047f070a7e.png" group-title="MOVIES",MNM DRAMA
 http://mmn.mypsx.net:1935/live/mmnhddrama/chunklist_w884107130.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/s3DfxzHP/MMN.png" group-title="MOVIES",MNM ACTION
 http://mmn.mypsx.net:1935/live/mmnhdaction/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/4JYJGg10/NDRAMA.png" group-title="VIP TV",NEWLINE DRAMA
-http://line.now-ott.xyz/live/451AAD/%203f41a2/1443623.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZTPSPxJT/nmovies.png" group-title="VIP TV",NEWLINE MOVIES
-http://line.now-ott.xyz/live/451AAD/%203f41a2/741933.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/dff8f499-c33c-48e1-b3e4-11baaa877add.png" group-title="MOVIES",MBC 2
 http://149.57.37.10/EX/MBC_2_FHD-ar/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/e7985612-3981-4f6c-abff-35d0e55c93e1.png" group-title="MOVIES",MBC BOLYWOOD
@@ -197,6 +199,18 @@ http://178.219.128.68:64888/FILMPREMHD
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sqjuXUO.png" group-title="MOVIES",KINO HD
 http://178.219.128.68:64888/KINOTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/hbo-us.png" group-title="MOVIES",HBO HD
+http://78.130.250.2:8023/play/a02s/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com//logo/tv/cc/cinecanal-us.png" group-title="MOVIES",CANAL+ FILM
+http://178.219.128.68:64889/CANAFILMHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/hbo-1-ca.png" group-title="MOVIES",HBO HD
+http://178.219.128.68:64888/HBOHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/hbo-2-ca.png" group-title="MOVIES",HBO2 HD
+http://178.219.128.68:64888/HBO2HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/hbo-zone-hz-us.png" group-title="MOVIES",HBO3 HD
+http://178.219.128.68:64888/HBO3HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Fourqui/tv/blob/master/countries/united-states/hd/fx-hd-us.png?raw=true" group-title="MOVIES",CANAL+ SERIALE
+http://178.219.128.68:64888/CANASERIHD
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1edbb309-7b1a-475f-8cb2-4b5c8512c01d.png" group-title="DOCUMENTARY",MNM DOCUMENTARY
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/chunklist_w607559860.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N00seOn.png" group-title="DOCUMENTARY",ANIMAL BOX
@@ -223,7 +237,7 @@ http://109.233.89.170/BBC_Earth_HD/index.m3u8
 http://109.233.89.166/History_HD/index.m3u8
 #EXTINF:-1 tvg-id="History2.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="DOCUMENTARY",History 2
 http://109.233.89.166/History_2_HD/index.m3u8
-#EXTINF:-1 tvg-id="AsharqDocumentary.sa" tvg-logo="https://yt3.googleusercontent.com/AFUZ79or1rvrFKbfaMDdoJ1n_814lANCdUOdH0mdGRmcYfIfDH4cfTWwyUkHwie2I2xJPlaTJg=s512-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTARY",Asharq Documentary
+#EXTINF:-1 tvg-id="AsharqDocumentary.sa" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/docu-can.png" group-title="DOCUMENTARY",Asharq Documentary
 https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="DOCUMENTARY",Asharq Discovery
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
@@ -241,12 +255,26 @@ http://178.219.128.68:64888/POLSVIASHISTHD
 http://178.219.128.68:64888/POLSVIASNATUHD
 #EXTINF:-1 tvg-id="WildEarth.uk" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="DOCUMENTARY",WILD EARTH
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/discovery-channel-us.png" group-title="DOCUMENTARY",Discovery Europe HD
+http://91.146.94.234:10000/play/a041
+#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/animal-planet-ca.png" group-title="DOCUMENTARY",Animal Planet HD
+http://91.146.94.234:10000/play/a042
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="DOCUMENTARY",Animal Planet hd
+http://stream01.vnet.am/AnimalPlanet/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/X16UGUf.png" group-title="DOCUMENTARY",Viju History
+http://135.181.115.81:8000/play/a00g/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TUcM0oS.png" group-title="DOCUMENTARY",Viju Nature
+http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PFaGiFD.png" group-title="DOCUMENTARY",Love Nature HD INT
+http://78.130.250.2:8023/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="KIDS",AVAR KIDS
 http://avrstream.com:1935/live/AvarTv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAnime.it" tvg-logo="https://i.imgur.com/bvbn8pa.png" group-title="KIDS",Pluto TV Anime
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="KIDS",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/cartoonito-uk.png" group-title="KIDS",Cartoonito HD
+http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://zindikurmanci.zaroktv.com.tr/logo" group-title="KIDS",ZAROK TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="KIDS",Nickelodeon
@@ -295,6 +323,16 @@ http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="COUNTRY",KBS 2TV
 http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/fraudiay79/logos/blob/master/ni/canal2.png?raw=true" group-title="COUNTRY",2+2
+http://212.79.122.11:5014/udp/239.255.6.14:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/investigation-discovery-uk.png" group-title="COUNTRY",1+1 Кіно HD
+http://lb.freeott.top:8080/lb0/1plus1_kino_hd/video.m3u8?token=Hometop&token=1c2a028e07bce089bb86519d7c6b875b
+#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/investigation-discovery-uk.png" group-title="COUNTRY",1+1 Україна
+http://212.79.122.11:5014/udp/239.255.6.49:1234
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/fraudiay79/logos/blob/master/br/band.png?raw=true" group-title="COUNTRY",DTX Poland HD
+http://178.219.128.68:64888/DTXHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/250?cb=20201126064846" group-title="COUNTRY",AXN
+http://178.219.128.68:64888/AXN
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/6d7dee7f-bff3-4ee3-808d-f8dfbea0425a.png" group-title="SPORTS",NUBAR SPORT
 http://stream.nubar.tv:1935/private/NUBARSport/chunklist_w1691098846.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport1.cz" tvg-logo="https://i.imgur.com/Q3WjH1Q.png" group-title="SPORTS",Canal+ Sport 1
@@ -315,3 +353,5 @@ http://109.233.89.166/Eleven_Sports_2_HD/index.m3u8
 http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
 #EXTINF:-1 tvg-id="ElevenSports4.pl" tvg-logo="https://i.imgur.com/SEKXaAW.png" group-title="SPORTS",Eleven Sports 4
 http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/fraudiay79/logos/blob/master/br/sportv.png?raw=true" group-title="SPORTS",Nova Sport 2 HD
+http://78.130.250.2:8023/play/a004/index.m3u8
