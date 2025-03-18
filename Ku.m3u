@@ -211,6 +211,15 @@ http://178.219.128.68:64888/HBO2HD
 http://178.219.128.68:64888/HBO3HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Fourqui/tv/blob/master/countries/united-states/hd/fx-hd-us.png?raw=true" group-title="MOVIES",CANAL+ SERIALE
 http://178.219.128.68:64888/CANASERIHD
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/BeIN_Movies_2.png" group-title="MOVIES",beIN_MOVIES_2
+https://s1.koralive.lol/beIN_MOVIES_2/tracks-v1a1/mono.m3u8?remote=185.187.78.1&token=e2f8bcec4a247e3ad432fcfead168030ed45e582-e4fe916001211f42dbf1e480dc4f1c60-1742264912-1742254112
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/BeIN_Movies_1.png" group-title="MOVIES",beIN_MOVIES
+https://s1.koralive.lol/beIN_MOVIES/tracks-v1a1/mono.m3u8?remote=185.187.78.1&token=52ca7e383afd975ae67eed7bea65db44df4a0554-28a44d5526c17d786e5122fec1b4debd-1742265041-1742254241
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/BeIN_Movies_3.png" group-title="MOVIES",beIN MOVIES 3
+https://s1.koralive.lol/beIN_MOVIES_3/tracks-v1a1/mono.m3u8?remote=185.187.78.1&token=e7967579c20e97e97b019b68acb356948ab38457-46e63bce5740470bde7ea57b17e11bc5-1742265122-1742254322
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Netflix_Logomark.png" group-title="MOVIES",NETFLIX 
+https://s2.koralive.lol//netfilx4k/tracks-v1a1/mono.m3u8?remote=185.187.78.1&token=0633813490fd4346607661ef406f2846875dc210-b9ea99a672a0462e87ba16f0e193b464-1742265356-1742254556
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1edbb309-7b1a-475f-8cb2-4b5c8512c01d.png" group-title="DOCUMENTARY",MNM DOCUMENTARY
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/chunklist_w607559860.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N00seOn.png" group-title="DOCUMENTARY",ANIMAL BOX
