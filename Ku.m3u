@@ -211,15 +211,14 @@ http://178.219.128.68:64888/HBO2HD
 http://178.219.128.68:64888/HBO3HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Fourqui/tv/blob/master/countries/united-states/hd/fx-hd-us.png?raw=true" group-title="MOVIES",CANAL+ SERIALE
 http://178.219.128.68:64888/CANASERIHD
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/BeIN_Movies_2.png" group-title="MOVIES",beIN_MOVIES_2
-https://s1.koralive.lol/beIN_MOVIES_2/tracks-v1a1/mono.m3u8?remote=185.187.78.1&token=e2f8bcec4a247e3ad432fcfead168030ed45e582-e4fe916001211f42dbf1e480dc4f1c60-1742264912-1742254112
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/BeIN_Movies_1.png" group-title="MOVIES",beIN_MOVIES
-https://s1.koralive.lol/beIN_MOVIES/tracks-v1a1/mono.m3u8?remote=185.187.78.1&token=52ca7e383afd975ae67eed7bea65db44df4a0554-28a44d5526c17d786e5122fec1b4debd-1742265041-1742254241
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/BeIN_Movies_3.png" group-title="MOVIES",beIN MOVIES 3
-https://s1.koralive.lol/beIN_MOVIES_3/tracks-v1a1/mono.m3u8?remote=185.187.78.1&token=e7967579c20e97e97b019b68acb356948ab38457-46e63bce5740470bde7ea57b17e11bc5-1742265122-1742254322
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Netflix_Logomark.png" group-title="MOVIES",NETFLIX 
-https://s2.koralive.lol//netfilx4k/tracks-v1a1/mono.m3u8?remote=185.187.78.1&token=0633813490fd4346607661ef406f2846875dc210-b9ea99a672a0462e87ba16f0e193b464-1742265356-1742254556
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/SHAHID.NET.png" group-title="KIDS",SHAHID KIDS
+http://nvpro.tv/live/m64vVV44/5952993334/924.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/BeIN_SERIES_logo_2017_V2.jpg" group-title="MOVIES",beIN SERIES
+http://dasifnz3.otttv.pw/iptv/ZASGRTFYHX4RT9/6138/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Box_cyan.png" group-title="MOVIES",SHAHID BOX
+http://dasifnz3.otttv.pw/iptv/ZASGRTFYHX4RT9/6137/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="MOVIES",MBC MAX
+http://149.57.37.10/EX/MBC_MAX_FHD-ar/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1edbb309-7b1a-475f-8cb2-4b5c8512c01d.png" group-title="DOCUMENTARY",MNM DOCUMENTARY
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/chunklist_w607559860.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N00seOn.png" group-title="DOCUMENTARY",ANIMAL BOX
@@ -332,12 +331,8 @@ http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="COUNTRY",KBS 2TV
 http://mytv.dothome.co.kr/ch/public/3.php
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/fraudiay79/logos/blob/master/ni/canal2.png?raw=true" group-title="COUNTRY",2+2
-http://212.79.122.11:5014/udp/239.255.6.14:1234
 #EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/investigation-discovery-uk.png" group-title="COUNTRY",1+1 Кіно HD
 http://lb.freeott.top:8080/lb0/1plus1_kino_hd/video.m3u8?token=Hometop&token=1c2a028e07bce089bb86519d7c6b875b
-#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/investigation-discovery-uk.png" group-title="COUNTRY",1+1 Україна
-http://212.79.122.11:5014/udp/239.255.6.49:1234
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/fraudiay79/logos/blob/master/br/band.png?raw=true" group-title="COUNTRY",DTX Poland HD
 http://178.219.128.68:64888/DTXHD
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/250?cb=20201126064846" group-title="COUNTRY",AXN
@@ -364,3 +359,15 @@ http://109.233.89.166/Eleven_Sports_3_HD/index.m3u8
 http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/fraudiay79/logos/blob/master/br/sportv.png?raw=true" group-title="SPORTS",Nova Sport 2 HD
 http://78.130.250.2:8023/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORTS",beIN SPORT 1
+http://axmczf3b.otttv.pw/iptv/TMNDKBC6WFNGFU/6123/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS",beIN SPORT 2
+http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/6124/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="SPORTS",beIN SPORT 3
+http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/6126/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="SPORTS",beIN SPORT 4
+http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/6125/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/BeIN_LaLiga_HD.png" group-title="SPORTS",beIN SPORT 6 
+http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/6127/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/BeIN_LaLiga_HD.png" group-title="SPORTS",beIN SPORT 7
+http://axmczf3b.otttv.pw/iptv/TMNDKBC6WFNGFU/6128/index.m3u8
