@@ -211,14 +211,64 @@ http://178.219.128.68:64888/HBO2HD
 http://178.219.128.68:64888/HBO3HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Fourqui/tv/blob/master/countries/united-states/hd/fx-hd-us.png?raw=true" group-title="MOVIES",CANAL+ SERIALE
 http://178.219.128.68:64888/CANASERIHD
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/SHAHID.NET.png" group-title="KIDS",SHAHID KIDS
-http://nvpro.tv/live/m64vVV44/5952993334/924.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/BeIN_SERIES_logo_2017_V2.jpg" group-title="MOVIES",beIN SERIES
 http://dasifnz3.otttv.pw/iptv/ZASGRTFYHX4RT9/6138/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Box_cyan.png" group-title="MOVIES",SHAHID BOX
 http://dasifnz3.otttv.pw/iptv/ZASGRTFYHX4RT9/6137/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="MOVIES",MBC MAX
 http://149.57.37.10/EX/MBC_MAX_FHD-ar/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_d%27action.png" group-title="MOVIES",b ACTION HD
+http://87.246.60.6:11028?token=fas-tv.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/SHAHID.NET.png" group-title="KIDS",SHAHID KIDS
+http://nvpro.tv/live/m64vVV44/5952993334/924.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="KIDS",AVAR KIDS
+http://avrstream.com:1935/live/AvarTv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnime.it" tvg-logo="https://i.imgur.com/bvbn8pa.png" group-title="KIDS",Pluto TV Anime
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="KIDS",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/cartoonito-uk.png" group-title="KIDS",Cartoonito HD
+http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://zindikurmanci.zaroktv.com.tr/logo" group-title="KIDS",ZAROK TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="KIDS",Nickelodeon
+http://109.233.89.166/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-logo="https://i.imgur.com/zeKHZYG.png" group-title="KIDS",Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="KIDS",TRT Diyanet Cocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-logo="https://i.imgur.com/GjppUlg.png" group-title="KIDS",Polsat JimJam
+http://109.233.89.166/Polsat_JimJam/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="KIDS",Nickelodeon CIS
+http://31.148.48.15/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="KIDS",EL MAJID KID
+https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="MNetKids.mk" tvg-logo="https://i.imgur.com/SbKkpuH.png" group-title="KIDS",M-Net Kids
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="KIDS",Minika Cocuk
+https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
+#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="KIDS",Minika Go
+https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
+#EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="KIDS",ANI KIDS
+http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1812fe49-8834-4fb8-9a7c-7bc4578c9fdd.png" group-title="KIDS",МБК  3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1dc3334b-0205-45ac-b59d-e0e728c06d6f.png" group-title="KIDS",AFARIN TV
+http://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist_w308017278.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1edbb309-7b1a-475f-8cb2-4b5c8512c01d.png" group-title="KIDS",MNM KIDS
+http://mmn.mypsx.net:1935/live/mmnhdkids/chunklist_w1619842159.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="KIDS",DISNEY XD
+http://178.219.128.68:64888/DISNXD
+#EXTINF:-1 tvg-id="" tvg-logo="http://stream.geoiptv.live/channels_icon/18599627861.png" group-title="KIDS",CARTOON HD
+http://ch14.tv/live/ch4teenkids/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/05/Kidco.png" group-title="KIDS",KIDCO HD
+http://avrstream.com:1935/live/kidcohd/chunklist_w1335484422.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/e4d4cf23-733c-4479-9ebe-529f0c10f2f1.png" group-title="KIDS",SPACE TOON
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/b55a5e2c-7540-444e-9882-b923c8baa855.png" group-title="KIDS",TRT CUCUK
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="KIDS",DISNEY EAST
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1edbb309-7b1a-475f-8cb2-4b5c8512c01d.png" group-title="DOCUMENTARY",MNM DOCUMENTARY
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/chunklist_w607559860.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N00seOn.png" group-title="DOCUMENTARY",ANIMAL BOX
@@ -275,54 +325,8 @@ http://135.181.115.81:8000/play/a00g/index.m3u8?token=livetv
 http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PFaGiFD.png" group-title="DOCUMENTARY",Love Nature HD INT
 http://78.130.250.2:8023/play/a02m/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="KIDS",AVAR KIDS
-http://avrstream.com:1935/live/AvarTv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnime.it" tvg-logo="https://i.imgur.com/bvbn8pa.png" group-title="KIDS",Pluto TV Anime
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="KIDS",Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/cartoonito-uk.png" group-title="KIDS",Cartoonito HD
-http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://zindikurmanci.zaroktv.com.tr/logo" group-title="KIDS",ZAROK TV
-https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="KIDS",Nickelodeon
-http://109.233.89.166/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-logo="https://i.imgur.com/zeKHZYG.png" group-title="KIDS",Persiana Junior
-https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="KIDS",TRT Diyanet Cocuk
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-logo="https://i.imgur.com/GjppUlg.png" group-title="KIDS",Polsat JimJam
-http://109.233.89.166/Polsat_JimJam/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="KIDS",Nickelodeon CIS
-http://31.148.48.15/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="KIDS",EL MAJID KID
-https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="MNetKids.mk" tvg-logo="https://i.imgur.com/SbKkpuH.png" group-title="KIDS",M-Net Kids
-http://ares.mnet.mk/hls/mnet-kids.m3u8
-#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="KIDS",Minika Cocuk
-https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
-#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="KIDS",Minika Go
-https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
-#EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="KIDS",ANI KIDS
-http://31.148.48.15/Ani/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1812fe49-8834-4fb8-9a7c-7bc4578c9fdd.png" group-title="KIDS",МБК  3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1dc3334b-0205-45ac-b59d-e0e728c06d6f.png" group-title="KIDS",AFARIN TV
-http://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist_w308017278.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1edbb309-7b1a-475f-8cb2-4b5c8512c01d.png" group-title="KIDS",MNM KIDS
-http://mmn.mypsx.net:1935/live/mmnhdkids/chunklist_w1619842159.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="KIDS",DISNEY XD
-http://178.219.128.68:64888/DISNXD
-#EXTINF:-1 tvg-id="" tvg-logo="http://stream.geoiptv.live/channels_icon/18599627861.png" group-title="KIDS",CARTOON HD
-http://ch14.tv/live/ch4teenkids/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/05/Kidco.png" group-title="KIDS",KIDCO HD
-http://avrstream.com:1935/live/kidcohd/chunklist_w1335484422.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/e4d4cf23-733c-4479-9ebe-529f0c10f2f1.png" group-title="KIDS",SPACE TOON
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/b55a5e2c-7540-444e-9882-b923c8baa855.png" group-title="KIDS",TRT CUCUK
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="KIDS",DISNEY EAST
-https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="DOCUMENTARY",DUCO BOX
+http://iptv.prosto.tv:7000/ch93/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/05PsGFF7/MBC.png" group-title="COUNTRY",MBC 1
 http://149.57.37.10/EX/MBC_1_FHD-ar/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0tm3tui.png" group-title="COUNTRY",A2 TV TURKEY
@@ -337,6 +341,12 @@ http://lb.freeott.top:8080/lb0/1plus1_kino_hd/video.m3u8?token=Hometop&token=1c2
 http://178.219.128.68:64888/DTXHD
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/250?cb=20201126064846" group-title="COUNTRY",AXN
 http://178.219.128.68:64888/AXN
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Got_Talent_logo.PNG" group-title="COUNTRY",GOT TALENT
+https://shls-live-ak.akamaized.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Ale_kino%2B_logo.png" group-title="COUNTRY",ALE KINO
+http://178.219.128.68:64889/ALEKINOHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Priorlife_Logo.png" group-title="COUNTRY",2+2
+http://91.146.94.234:10000/play/a04r
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/6d7dee7f-bff3-4ee3-808d-f8dfbea0425a.png" group-title="SPORTS",NUBAR SPORT
 http://stream.nubar.tv:1935/private/NUBARSport/chunklist_w1691098846.m3u8
 #EXTINF:-1 tvg-id="CanalPlusSport1.cz" tvg-logo="https://i.imgur.com/Q3WjH1Q.png" group-title="SPORTS",Canal+ Sport 1
@@ -362,12 +372,1118 @@ http://78.130.250.2:8023/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORTS",beIN SPORT 1
 http://axmczf3b.otttv.pw/iptv/TMNDKBC6WFNGFU/6123/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORTS",beIN SPORT 2
-http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/6124/index.m3u8
+https://stream.sainaertebat.com/hls2/bein2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="SPORTS",beIN SPORT 3
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/6126/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="SPORTS",beIN SPORT 4
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/6125/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/BeIN_LaLiga_HD.png" group-title="SPORTS",beIN SPORT 6 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/BeIN_LaLiga_HD.png" group-title="SPORTS",beIN SPORT 6
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/6127/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/BeIN_LaLiga_HD.png" group-title="SPORTS",beIN SPORT 7
 http://axmczf3b.otttv.pw/iptv/TMNDKBC6WFNGFU/6128/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/RUDAW.png" group-title="Kurdish",K- Rudaw
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/70744
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/K24.png" group-title="Kurdish",K- K24
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/1160
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/AVA.ENTERTAINMENT.png" group-title="Kurdish",K- AVA Meida
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/9593
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NRT.png" group-title="Kurdish",K- NRT 1 News 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/8
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURDSAT.NEWS.png" group-title="Kurdish",K- Kurdsat News
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/1
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURDSAT.png" group-title="Kurdish",K- Kurdsat TV
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/4
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/CHANNEL8.png" group-title="Kurdish",K- Channel 8 Kurdish
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/435849
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/PAYAM.png" group-title="Kurdish",K- Payam
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/2564
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/BINAR.png" group-title="Kurdish",BNAR FAMILY HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/466521
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KNN.png" group-title="Kurdish",K- KNN
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/157038
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURDISTAN.png" group-title="Kurdish",K- Kurdistan TV
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/21
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ESRA.png" group-title="Kurdish",K- Esra Quran 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/28975
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ZAGROS.png" group-title="Kurdish",K- Zagros TV
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/10
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/PSHDAR.png" group-title="Kurdish",K- LD Pshdar
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/323413
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SORAN.ENTERTAINMENT.png" group-title="Kurdish",Soran  Entertainment
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/465279
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURDISTAN.SPORT.png" group-title="Kurdish",K- Kurdistan Sport
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33706
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/GALI.KURDISTAN.png" group-title="Kurdish",K- Gali Kurdistan
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/99957
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/GASHA.FAMILY.png" group-title="Kurdish",K- BNAR MOVIES HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/411575
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ZED.PLUS.png" group-title="Kurdish",K- ZED Plus
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/104398
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ZED.png" group-title="Kurdish",K- Zed HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/10581
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NRT.SPORT.png" group-title="Kurdish",K- NRT Sport
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/29348
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NRT2.png" group-title="Kurdish",K- NRT 2 Family
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/9
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NRT3.png" group-title="Kurdish",K- NRT 3 Kids
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/11167
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NRT4.png" group-title="Kurdish",K- NRT 4 Ayni
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/16727
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NIGA.KIDS.png" group-title="Kurdish",K- Niga Kids
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/387119
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NIGA.FAMILY.png" group-title="Kurdish",K- Niga Family
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/387118
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NIGA.MOVIES.png" group-title="Kurdish",K- Niga Movies
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/387117
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SPEDA.png" group-title="Kurdish",K- Speda
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/217
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SPEDA.DRAMA.png" group-title="Kurdish",K- Speda  Drama
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/28801
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.MOVIES.png" group-title="Kurdish",K-Newline Movies
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/293135
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.BOLLYWOOD.png" group-title="Kurdish",K-Newline Bollywood
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/293137
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.DRAMA.png" group-title="Kurdish",K-Newline Drama
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/293140
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.KIDS.png" group-title="Kurdish",K-Newline Kids
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/293136
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/LD.LIFE.png" group-title="Kurdish",K- LD LIFE
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/384494
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/LD.FAMILY.png" group-title="Kurdish",K- LD Family
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/30007
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/AVASPORT.png" group-title="Kurdish",K- Ava Sport
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/438124
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ZOOM.png" group-title="Kurdish",K- Zoom TV
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/449465
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/RED.png" group-title="Kurdish",K- RED tv
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/188563
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURD.png" group-title="Kurdish",K- Kurdana
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/448311
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/WAAR.png" group-title="Kurdish",K- WAAR
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/11210
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MTVKIDS.png" group-title="Kurdish",K- MTV Kids
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/437326
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NR1.png" group-title="Kurdish",K- NR1 KURD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/94963
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/BK4.png" group-title="Kurdish",K- b4 kurdish
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/97483
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MIX.KURDISH.png" group-title="Kurdish",K- Mix Kurdy
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84585
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NIROJKIDS.png" group-title="Kurdish",K- Niroj Kids
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/431309
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURD.png" group-title="Kurdish",K- KURD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/324079
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NIROJ.png" group-title="Kurdish",K- Niroj
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/431308
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SHNA.png" group-title="Kurdish",K- Shna 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/432068
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ARIFANSUNNAT.png" group-title="Kurdish",K- Arifan sunnat
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/408350
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KHAK.png" group-title="Kurdish",K- Khak
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/421946
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NEW.png" group-title="Kurdish",K- Zheer HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/421317
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MTVMUSIC.png" group-title="Kurdish",K- MTV Music
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/432066
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/AZADITV.png" group-title="Kurdish",K- Azadi
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/84637
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KIDCOHD.png" group-title="Kurdish",K- kidco hd
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/424663
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/A2.png" group-title="Kurdish",K- A2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/385885
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/QALAM.ALL.png" group-title="Kurdish",K- Qalam TV
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/404368
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/QALAM.AYNI.png" group-title="Kurdish",K- Qalam Ayni
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/404369
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/QALAM.GEOGRAPHIC.png" group-title="Kurdish",K- Qalam geoghraphic
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/404370
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/QALAM.KIDS.png" group-title="Kurdish",K- Qalam kids
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/404371
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/K24.DOC.png" group-title="Kurdish",K- K24 DOC
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/390555
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/RASAN.png" group-title="Kurdish",K- Rasan
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/1962
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/A.TV.png" group-title="Kurdish",K- ATV KURD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/28027
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SILEMANI.png" group-title="Kurdish",K- Slemani
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/135706
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SHAISTA.png" group-title="Kurdish",K- Shaista
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/10582
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURDMAX.KURMANJI.png" group-title="Kurdish",K- KurdMax Kurmanji
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/11264
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURDMAX.png" group-title="Kurdish",K- KurdMax Sorani
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/5
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURDMAX.PAPULA.png" group-title="Kurdish",K- Kurdmax Pepula
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/14491
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURDMAXSHOW.KURMANJI.png" group-title="Kurdish",K- Kurdmax Show Kurmanji
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/2290
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURDMAXSHOW.SORANI.png" group-title="Kurdish",K- KurdMax Show Sorani
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/2289
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURDMAX.MUSIC.png" group-title="Kurdish",K- Kurdmax Music
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/444303
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/LAWAN.png" group-title="Kurdish",K- Lawan
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/1003
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/4KURD.png" group-title="Kurdish",K- 4 Kurd
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/143286
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SADA.png" group-title="Kurdish",K- SADA
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/206055
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SAHAR.png" group-title="Kurdish",K- Sahar Kurdi
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/203
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KERKUK.png" group-title="Kurdish",K- Kirkuk
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/204
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/JUDI.png" group-title="Kurdish",K- Judi
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/118328
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/JOJO.MAMA.png" group-title="Kurdish",K- JoJo MaMa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/1997
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SEE.SPORT3.png" group-title="Kurdish",K- See Sport 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/29346
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ARO.FAMILY.png" group-title="Kurdish",K- Aro Family
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/432986
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ARO.DRAMA.png" group-title="Kurdish",K- Aro Drama
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/432985
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ARO.KIDS.png" group-title="Kurdish",K- Aro Kids
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/159595
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ARO.SPORT.png" group-title="Kurdish",K- Aro Sport
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/159594
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ALLA.png" group-title="Kurdish",K- ALLA
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/249322
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SEE.SPORT.png" group-title="Kurdish",K- See Sport 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/240831
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/BASK.png" group-title="Kurdish",K- BASK
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/199936
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/DASINYA.KIDS.png" group-title="Kurdish",K- Dasinya kids
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/162748
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/DERWAZE.png" group-title="Kurdish",K- Derwaza Music
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/196379
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/DUHOK.SPORT.png" group-title="Kurdish",K- Duhok Sport
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/199335
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/FOX.png" group-title="Kurdish",K- FOX
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/196373
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ALA.png" group-title="Kurdish",K- Ala
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/340126
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/4ANIME.png" group-title="Kurdish",K- 4 Anime
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/196377
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/4SPORT.png" group-title="Kurdish",K- 4 Sport
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/196378
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/A.AMOZHGARY.png" group-title="Kurdish",K- A.Amozhgary
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/239696
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/AMOZHGARY.png" group-title="Kurdish",K- Amozhgary
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/67194
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ARYEN.png" group-title="Kurdish",K- Aryen TV
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/10159
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ASTERA.BABY.png" group-title="Kurdish",K- Astera Baby
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/13430
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ASTERA.DOCUMENTARY.png" group-title="Kurdish",K- Astera Documentary
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/16729
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ASTERA.FAMILY.png" group-title="Kurdish",K- Astera Family
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/1006
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ASTERA.MOVIES.png" group-title="Kurdish",K- Astera Movies
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/13426
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ASTERA.SHOW.png" group-title="Kurdish",K- Astera Show
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/10588
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NEXT.png" group-title="Kurdish",K- Next
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33281
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ZEVER.png" group-title="Kurdish",k- ZEVER
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/247286
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/BANGXWAZEN.BADINAN.png" group-title="Kurdish",K-Bangxwazen Badinan
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/93621
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/RAVAND.png" group-title="Kurdish",K- RAVAND
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/1773
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ASTERA.SPORT.png" group-title="Kurdish",K- Astera Sport
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33546
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/BABOLY.png" group-title="Kurdish",K- Baboly
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/41009
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/BANGXWAZ.png" group-title="Kurdish",K- Bangawaz
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/1161
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/BMC.png" group-title="Kurdish",K- BMC
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/41519
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/CIHAN.png" group-title="Kurdish",K- Cihan  
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/9594
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/CIRA.png" group-title="Kurdish",K- Cira TV
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/1209
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/LD.SPORT.png" group-title="Kurdish",K- LD Sport
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/149062
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/DASINYA.SPORT.png" group-title="Kurdish",K- Dasinya Sport
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33385
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/DERIN.png" group-title="Kurdish",K- Derin
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/134471
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/DERWAZE.png" group-title="Kurdish",K- Derwaze
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/28424
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/DIMEN.png" group-title="Kurdish",K- Dimen
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/108667
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/DUHOK.png" group-title="Kurdish",K- Duhok
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/19919
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/PAYAM.png" group-title="Kurdish",K- Payam FM
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/30398
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/IRAQIA.KURD.png" group-title="Kurdish",K- Iraqia Kurd
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/28639
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ISHTAR.png" group-title="Kurdish",K- Ishtar
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/124561
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/JIN.png" group-title="Kurdish",K- Jin
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/117517
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MTV.SPORT.png" group-title="Kurdish",K- MTV Sport
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/60307
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KOMAL.RANYA.png" group-title="Kurdish",K- Komal Ranya
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/36726
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KOMAL.png" group-title="Kurdish",K- Komall
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/14367
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KRD.WWE.png" group-title="Kurdish",K- KRD WWE
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/28103
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURD.MOVIES.png" group-title="Kurdish",K- KURD MOVIES
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/66075
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/LD.KURD.CINEMA.png" group-title="Kurdish",K- LD Kurdcinema
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/157863
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/LD.NUJIN.png" group-title="Kurdish",K- LD Nujin
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/157862
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MMN.KIDS.png" group-title="Kurdish",K- MMN Kids
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/28839
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/LIFE.ISLAM.png" group-title="Kurdish",K- LIFE Islam
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/290927
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MEDMUSIC.png" group-title="Kurdish",K- Med Music
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/1219
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MIHRAB.png" group-title="Kurdish",K- Mihrab
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/149061
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MINARA.png" group-title="Kurdish",K- Minara
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/39072
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.png" group-title="Kurdish",K- NewLine
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/1031
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NEWLINE2.png" group-title="Kurdish",K- Newline 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/1961
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NEW.MAX.BOXOFFICE.png" group-title="Kurdish",K- NewMax Box Office 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/15791
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NUBAR.SPORT.png" group-title="Kurdish",K- Nubar
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/36838
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/PARWARDAY.DUHOK.png" group-title="Kurdish",K- Parwardayi Duhok
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/117564
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/EZDAN.png" group-title="Kurdish",K- Ezdan
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/168399
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/QALAT.png" group-title="Kurdish",K- Qalat
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/1037
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MIHRAB.png" group-title="Kurdish",K- Mihrab FM
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/425082
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/RANIA.png" group-title="Kurdish",K- Ranya
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/90905
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/RENG.DOCUMENTARY.png" group-title="Kurdish",K- Reng Document
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/1036
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/RENG.png" group-title="Kurdish",K- Reng  
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/9596
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ROJAVA.png" group-title="Kurdish",K- Rojava
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/21494
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/RONAHI.png" group-title="Kurdish",K- Ronahi
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/215
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SAUDICH.FORSUNAH.png" group-title="Kurdish",K- Saudi Ch. For Sunnah
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/16725
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SHAKROK.png" group-title="Kurdish",K- Welat Tv
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/37129
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/STERK.png" group-title="Kurdish",K- Sterk
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/216
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/TASAWUF.png" group-title="Kurdish",K- tasawf
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/149064
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/TRT.KURDI.png" group-title="Kurdish",K- TRT KURDI
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/149194
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/UTV.png" group-title="Kurdish",K- U TV
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/1041
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/U2.TV.png" group-title="Kurdish",K- U2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/13024
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/UTV.png" group-title="Kurdish",K- UTV
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/31689
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ZAROK.SORANI.png" group-title="Kurdish",K- Zarok Sorani
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/45762
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ZNAR.png" group-title="Kurdish",K- Znar
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/149059
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ASO.SPORT.png" group-title="Kurdish",K-Aso Sport
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33707
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/BINAR.png" group-title="Kurdish",K- Binar
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/143285
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/AFARINBAXCHA.png" group-title="Kurdish",K- AFARIN BAXCHA
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/302921
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/AFARINKIDS.png" group-title="Kurdish",K- Afarin Kids
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/30522
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MTVFAMILY.png" group-title="Kurdish",K- MTV Family
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/392620
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KANI.png" group-title="Kurdish",K- Kani
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/162749
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KOMALA.MEDIA.NETWORK.png" group-title="Kurdish",KOMALA Media Network
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/163223
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MTV.SPORT.png" group-title="Kurdish",K- MTV Sport
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/290928
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURD.png" group-title="Kurdish",K- KURD CHANNEL
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/286734
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NEWLINE.SPORT.png" group-title="Kurdish",K- Newline Sport
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/293134
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/LD.ANIME.png" group-title="Kurdish",K- LD Anime
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/239697
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MMNCLASSIC.png" group-title="Kurdish",K- MMN Classic Musical
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/28850
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MMN.CLIP.png" group-title="Kurdish",K- MMN Clip
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/28840
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MMN.DOCUMENTARY.png" group-title="Kurdish",K- MMN Documentary
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/28849
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MMN.NEWS.png" group-title="Kurdish",K- MMN News
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/64147
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MMN.MOVIES.png" group-title="Kurdish",K- MMN Movies
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/28838
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MMNRADIOFARSI.png" group-title="Kurdish",K- MMN Radio Farsy
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/30277
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MMN.RADIOTURKEY.png" group-title="Kurdish",K- MMN Radio Turkey
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/30038
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MMN.SHOW.png" group-title="Kurdish",K- MMN Show
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/29799
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MMN.DRAMA.png" group-title="Kurdish",K- MMN Sport
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/33300
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MMN.ACTION.png" group-title="Kurdish",K- MMN ACTION
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/190536
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MMN.DRAMA.png" group-title="Kurdish",K- MMN DRAMA
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/188582
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MMN.SPORT.png" group-title="Kurdish",K- MMN SPORT
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/231240
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MMN.ACTION.png" group-title="Kurdish",K- MNN ACTION
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/190275
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NOOR.png" group-title="Kurdish",K- Noor
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/196381
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NUBAR.SPORT.png" group-title="Kurdish",K- NUBAR SPORT
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/265992
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ONE.png" group-title="Kurdish",K- One World
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/196375
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ROZH.png" group-title="Kurdish",K- Rozh
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/162530
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SEE.SPORT.png" group-title="Kurdish",K- See Sport 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/164380
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SIMA.png" group-title="Kurdish",K- Sima
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/162752
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SIMA.DOCUMENTARY.png" group-title="Kurdish",K- Sima Documentary
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/196371
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SIMA.MOVIES.png" group-title="Kurdish",K- Sima Movies
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/196370
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SIMA.SPORT.png" group-title="Kurdish",K- SIMA SPORT
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/199935
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ZAKHO.SPORT.png" group-title="Kurdish",K- Zaxo
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/162751
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ZAKHO.SPORT.png" group-title="Kurdish",K- Zaxo Sport
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/162750
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/ISLAMWTAR.png" group-title="Kurdish",K- Islam Wtar 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/209004
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/ISLAMWTAR.png" group-title="Kurdish",K- Islam Wtar 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/209005
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/BADINIMOVIES.png" group-title="Kurdish",K- Forever Badini Movies
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/237327
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/BADINISERIES.png" group-title="Kurdish",K- Forever Badini Series
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/237339
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="Kurdish",K- Forever Cartoon 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/237328
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="Kurdish",K- Forever Cartoon 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/163635
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="Kurdish",K- Forever Cartoon 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/237329
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="Kurdish",K- Forever Cartoon 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/163663
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="Kurdish",K- Forever Cartoon 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/163688
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/TOMANDJERRY.png" group-title="Kurdish",K- Forever Tom & Jerry
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/237338
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURD.CINEMA.ACTION1.png" group-title="Kurdish",K- Kurdcinema Action 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/63871
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURDCINEMAACTION2.png" group-title="Kurdish",K- Kurdcinema Action 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/63685
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURD.CINEMA.ACTION3.png" group-title="Kurdish",K- Kurdcinema Action 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/63872
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NEW.MAX.BOXOFFICE.png" group-title="Kurdish",K- NewMax Box Office
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/275531
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERCINEMA.png" group-title="Kurdish",K-Forever Cinema 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/237331
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERCINEMA.png" group-title="Kurdish",K-Forever Cinema 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/237332
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERCINEMA.png" group-title="Kurdish",K-Forever Cinema 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/294284
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/FOREVERFISHING.png" group-title="Kurdish",K-Forever Fishing
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/237334
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERNATURE.png" group-title="Kurdish",K-Forever Kurdistan Nature
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/237335
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/PINK.PANTER.png" group-title="Kurdish",K-Forever Pink Panther
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/237336
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/MUHAMMAD.MALA.FAYAQ.png" group-title="Kurdish",K- Muhammad Mala Fayaq
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/208163
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ZHYANNAMA.png" group-title="Kurdish",K- Zhyan Nama
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/208164
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/EKURD.png" group-title="Kurdish",K- EUROKURD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/298772
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NISHTIMANYMN.png" group-title="Kurdish",K- Nishtimany mn
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/298523
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/LD.AZHIN.png" group-title="Kurdish",K- LD AZHIN
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/298774
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ESRA.png" group-title="Kurdish",K- ESRA TV
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/341947
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/ADNANWLINA.jpg" group-title="Kurdish",K- Adnan Wa Lina
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351229
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/BARNAMAYBARNAMA.png" group-title="Kurdish",K- Barnmay Barnama
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351227
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/BAZMIBAZM.png" group-title="Kurdish",K- Bazmi Bazm
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351226
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/DRAMAY3BA4.png" group-title="Kurdish",K- Dramay 3 ba 4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351225
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/MRBEAN.png" group-title="Kurdish",K- Mr. Bean Kurdish
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/350980
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/QAQA.png" group-title="Kurdish",K- Qaqa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351230
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/LD.SPORT.png" group-title="Kurdish",K- LD SPORT CHEAK
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/356831
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVER.CARTOON.png" group-title="Kurdish",K- Forever Wild Life
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/354038
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURD.MOVIES.png" group-title="Kurdish",K-KURD MOVIES
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/354049
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/DELAL.SPORT.png" group-title="Kurdish",K- Delal Sport
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/368857
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/HALABJA.png" group-title="Kurdish",K- Halabja
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/382145
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/GEWHAR.png" group-title="Kurdish",K- Gewhar
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/427934
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KALAPUR.png" group-title="Kurdish",K- Kalapur
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/243475
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/JAMAWAR.png" group-title="Kurdish",Jamawar TV
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/199332
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/AKILLI.png" group-title="Kurdish",K- Akili TV
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/169646
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ARYEN.png" group-title="Kurdish",K- Asman
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/201415
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ASTERA.CULTUR.png" group-title="Kurdish",K- Astera Culture
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/169650
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/BAHA.png" group-title="Kurdish",K- Baha Entertainment HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/169659
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/BARINQURAN.png" group-title="Kurdish",K- Barin Quran
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/191778
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/DASINYA.png" group-title="Kurdish",K- Dasinya HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/169673
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/DASINYA.MUSIC.png" group-title="Kurdish",K- Dasinya Music
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/169674
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/DELAL.png" group-title="Kurdish",K- Delal TV
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/169677
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/DUHOK.png" group-title="Kurdish",K- Duhok TV HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/169685
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/LOCAL.FIRST.png" group-title="Kurdish",K- First 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/201409
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/FOX.png" group-title="Kurdish",K- Fox HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/169686
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SPI.QURAN.png" group-title="Kurdish",K- Spi Quran
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/418833
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURDCINEMA.png" group-title="Kurdish",K- Kurdcinema
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/201406
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/PARWARDAI.HAWLER.png" group-title="Kurdish",K- Parwardai Hawler HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/199334
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SRUSHT.png" group-title="Kurdish",K- Srusht
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/169731
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/U2.TV.png" group-title="Kurdish",K- UTV 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/169736
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/UTV.png" group-title="Kurdish",K- UTV DUHOK  HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/169735
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/GARYANMEDIA.png" group-title="Kurdish",K- Garyan TV
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/443290
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NEXTTV.png" group-title="Kurdish",k- Next TV
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/436805
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/SPI.png" group-title="Kurdish",K- Spi HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/445557
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/IMKQURAN.png" group-title="Kurdish",K- IMK Quran
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/445555
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/BEFRIN.png" group-title="Kurdish",K- BEFRIN HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/444983
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/FARMODA.png" group-title="Kurdish",K- Farmoda
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/431207
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/AVAR.png" group-title="Kurdish",K- Avar
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/432069
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ROZHGAR.png" group-title="Kurdish",K- Rojgar
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/439842
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/DEVER.png" group-title="Kurdish",K- Dever
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/196376
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/XABIR.png" group-title="Kurdish",K- Xabir
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/169740
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ZAKHO.SPORT.png" group-title="Kurdish",K- Zaxo HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/201407
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ZHYAR.png" group-title="Kurdish",K- Zhyar
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/169743
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/FOREVERNATURE.png" group-title="Kurdish",K- Forever Documentary
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/354037
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FDWFDnC/aryan.jpg" group-title="Kurdish",ANIMAL BOX
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/447361
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/KURD7.png" group-title="Kurdish",KURD 7
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/447467
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/ESRA.png" group-title="Kurdish",K- ESRA 2 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/61003
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.MOVIE.png" group-title="Kids Movies",KIDS 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/385487
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.MOVIE.png" group-title="Kids Movies",KIDS 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/210190
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.MOVIE.png" group-title="Kids Movies",KIDS 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/210191
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.MOVIE.png" group-title="Kids Movies",KIDS 4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/210301
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.MOVIE.png" group-title="Kids Movies",KIDS 5
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/210192
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.MOVIE.png" group-title="Kids Movies",KIDS 6
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/210194
+#EXTINF:-1 tvg-id="osnmoviesfirsthd.ae" tvg-logo="http://194.163.160.164/OSN/OSN.MOVIES.PREMIERE.png" group-title="OSN 4K",osnmoviesfirsthd.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207479
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/OSN/OSN.COMEDY.png" group-title="OSN 4K",Osn Movies Comedy 4K
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/352917
+#EXTINF:-1 tvg-id="fann.sa" tvg-logo="http://194.163.160.164/OSN/OSN.ALFA.ALFANN.png" group-title="OSN 4K",fann.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207493
+#EXTINF:-1 tvg-id="alsafwa.sa" tvg-logo="http://194.163.160.164/OSN/OSN.ALFA.ALSAFWA.png" group-title="OSN 4K",alsafwa.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207492
+#EXTINF:-1 tvg-id="alyawm.sa" tvg-logo="http://194.163.160.164/OSN/OSN.ALFA.ALYOUM.png" group-title="OSN 4K",alyawm.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207491
+#EXTINF:-1 tvg-id="osncinema.ae" tvg-logo="http://194.163.160.164/OSN/OSN.ALFA.CINEMA1.png" group-title="OSN 4K",osncinema.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207494
+#EXTINF:-1 tvg-id="osncinema.ae" tvg-logo="http://194.163.160.164/OSN/OSN.ALFA.CINEMA2.png" group-title="OSN 4K",osncinema.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207495
+#EXTINF:-1 tvg-id="serieschannel.sa" tvg-logo="http://194.163.160.164/OSN/OSN.ALFA.MUSALSALAT.png" group-title="OSN 4K",serieschannel.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207489
+#EXTINF:-1 tvg-id="seriesplus2.sa" tvg-logo="http://194.163.160.164/OSN/OSN.ALFA.MUSALSALAT2.png" group-title="OSN 4K",seriesplus2.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207490
+#EXTINF:-1 tvg-id="artaflam1.sa" tvg-logo="http://194.163.160.164/OSN/OSN.ART.AFLAM1.png" group-title="OSN 4K",artaflam1.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207499
+#EXTINF:-1 tvg-id="artaflam2.sa" tvg-logo="http://194.163.160.164/OSN/OSN.ART.AFLAM2.png" group-title="OSN 4K",artaflam2.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207500
+#EXTINF:-1 tvg-id="hekayat.sa" tvg-logo="http://194.163.160.164/OSN/OSN.ART.HEKAYAT1.png" group-title="OSN 4K",hekayat.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207497
+#EXTINF:-1 tvg-id="hekayat2.sa" tvg-logo="http://194.163.160.164/OSN/OSN.ART.HEKAYAT2.png" group-title="OSN 4K",hekayat2.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207498
+#EXTINF:-1 tvg-id="artcinema.sa" tvg-logo="http://194.163.160.164/OSN/OSN.ART.CINEMA.png" group-title="OSN 4K",artcinema.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207501
+#EXTINF:-1 tvg-id="babytv.sa" tvg-logo="http://194.163.160.164/OSN/OSN.BABY.png" group-title="OSN 4K",babytv.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207514
+#EXTINF:-1 tvg-id="osnenigma.ae" tvg-logo="http://194.163.160.164/OSN/OSN.BLOOMBERG.png" group-title="OSN 4K",osnenigma.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207483
+#EXTINF:-1 tvg-id="osncomedy.ae" tvg-logo="http://194.163.160.164/OSN/OSN.COMEDY.png" group-title="OSN 4K",osncomedy.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207472
+#EXTINF:-1 tvg-id="crimeinvestigation.sa" tvg-logo="http://194.163.160.164/OSN/OSN.CRIME.INVESTIGATION.png" group-title="OSN 4K",crimeinvestigation.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207519
+#EXTINF:-1 tvg-id="discovery.ae" tvg-logo="http://194.163.160.164/OSN/OSN.DISCOVERY.png" group-title="OSN 4K",discovery.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207516
+#EXTINF:-1 tvg-id="discoveryid.ae" tvg-logo="http://194.163.160.164/OSN/OSN.DISCOVERY.IDX.png" group-title="OSN 4K",discoveryid.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207518
+#EXTINF:-1 tvg-id="discovery.ae" tvg-logo="http://194.163.160.164/OSN/OSN.DISCOVERY.SC.png" group-title="OSN 4K",discovery.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207517
+#EXTINF:-1 tvg-id="osnmoviesdisney.ae" tvg-logo="http://194.163.160.164/OSN/OSN.DISNEY.CHANNEL.png" group-title="OSN 4K",osnmoviesdisney.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207508
+#EXTINF:-1 tvg-id="disneyjunior.sa" tvg-logo="http://194.163.160.164/OSN/OSN.DISNEY.JUNIOR.png" group-title="OSN 4K",disneyjunior.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207509
+#EXTINF:-1 tvg-id="osnenigma.ae" tvg-logo="http://194.163.160.164/OSN/OSN.E.png" group-title="OSN 4K",osnenigma.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207506
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/OSN/OSN.MOVIES.FAMILY.png" group-title="OSN 4K",OSN Movies  Family 4K
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207529
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/OSN/OSN.GINX.ESPORT.png" group-title="OSN 4K",OSN Ginx eSports 4K
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207471
+#EXTINF:-1 tvg-id="h2.sa" tvg-logo="http://194.163.160.164/OSN/OSN.HISTORY2.png" group-title="OSN 4K",h2.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207521
+#EXTINF:-1 tvg-id="history.sa" tvg-logo="http://194.163.160.164/OSN/OSN.HISTORY.png" group-title="OSN 4K",history.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207520
+#EXTINF:-1 tvg-id="osnkidzonetv.ae" tvg-logo="http://194.163.160.164/OSN/OSN.KIDS.ZONE.png" group-title="OSN 4K",osnkidzonetv.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207512
+#EXTINF:-1 tvg-id="osnliving.ae" tvg-logo="http://194.163.160.164/OSN/OSN.NOW.png" group-title="OSN 4K",osnliving.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207507
+#EXTINF:-1 tvg-id="osnmezze.ae" tvg-logo="http://194.163.160.164/OSN/OSN.MEZZE.png" group-title="OSN 4K",osnmezze.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207527
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/OSN/OSN.MOONBUG.KIDS.png" group-title="OSN 4K",OSN Moonbug Kids 4K
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207469
+#EXTINF:-1 tvg-id="osnsaction.ae" tvg-logo="http://194.163.160.164/OSN/OSN.MOVIES.ACTION.png" group-title="OSN 4K",osnsaction.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207481
+#EXTINF:-1 tvg-id="osnmovies.ae" tvg-logo="http://194.163.160.164/OSN/OSN.MOVIES.HOLLYWOOD.png" group-title="OSN 4K",osnmovies.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207478
+#EXTINF:-1 tvg-id="osnkids.ae" tvg-logo="http://194.163.160.164/OSN/OSN.MOVIES.KIDS.png" group-title="OSN 4K",osnkids.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207484
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/OSN/OSN.VH+1.png" group-title="OSN 4K",OSN VH1 4K
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207470
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/OSN/OSN.MTV.MUSIC.png" group-title="OSN 4K",OSN MTV music 4k
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207474
+#EXTINF:-1 tvg-id="nationalgeographicabudhabi.ae" tvg-logo="http://194.163.160.164/OSN/OSN.NATIONAL.GEOGRAPHIC.png" group-title="OSN 4K",nationalgeographicabudhabi.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207522
+#EXTINF:-1 tvg-id="natgeowild.sa" tvg-logo="http://194.163.160.164/OSN/OSN.NATIONAL.GEOGRAPHIC.WILD.png" group-title="OSN 4K",natgeowild.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207523
+#EXTINF:-1 tvg-id="osnnews.ae" tvg-logo="http://194.163.160.164/OSN/OSN.NEWS.png" group-title="OSN 4K",osnnews.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207515
+#EXTINF:-1 tvg-id="nickjr.sa" tvg-logo="http://194.163.160.164/OSN/OSN.NICK.JR.png" group-title="OSN 4K",nickjr.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207511
+#EXTINF:-1 tvg-id="nickelodeon.sa" tvg-logo="http://194.163.160.164/OSN/OSN.NICKELODEON.png" group-title="OSN 4K",nickelodeon.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207510
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/OSN/OSN.NICKTOON.png" group-title="OSN 4K",OSN NickToon 4K
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207513
+#EXTINF:-1 tvg-id="osnseriesfirst.ae" tvg-logo="http://194.163.160.164/OSN/OSN.CRIME.png" group-title="OSN 4K",osnseriesfirst.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207503
+#EXTINF:-1 tvg-id="osnseriesfirst.ae" tvg-logo="http://194.163.160.164/OSN/OSN.SHOWCASE.png" group-title="OSN 4K",osnseriesfirst.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207502
+#EXTINF:-1 tvg-id="skynewsarabiahd.sa" tvg-logo="http://194.163.160.164/OSN/OSN.SKY.NEWS.png" group-title="OSN 4K",skynewsarabiahd.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207475
+#EXTINF:-1 tvg-id="starmovies.sa" tvg-logo="https://i.ibb.co/BP0SjRS/Asset-23-24x.png" group-title="OSN 4K",starmovies.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207485
+#EXTINF:-1 tvg-id="starworld.sa" tvg-logo="http://194.163.160.164/OSN/OSN.STAR.WORLD.png" group-title="OSN 4K",starworld.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207505
+#EXTINF:-1 tvg-id="tfc.ae" tvg-logo="http://194.163.160.164/OSN/OSN.TFC.png" group-title="OSN 4K",tfc.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207476
+#EXTINF:-1 tvg-id="tlc.sa" tvg-logo="http://194.163.160.164/OSN/OSN.TLC.png" group-title="OSN 4K",tlc.sa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207477
+#EXTINF:-1 tvg-id="osnyahala.ae" tvg-logo="http://194.163.160.164/OSN/OSN.YAHALA.BILARABI.png" group-title="OSN 4K",osnyahala.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207486
+#EXTINF:-1 tvg-id="osnyahalacinima.ae" tvg-logo="http://194.163.160.164/OSN/OSN.YAHALA.AFLAM.png" group-title="OSN 4K",osnyahalacinima.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207488
+#EXTINF:-1 tvg-id="osnyahalaaloula.ae" tvg-logo="http://194.163.160.164/OSN/OSN.YAHALA.OULA.png" group-title="OSN 4K",osnyahalaaloula.ae
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/207487
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/OSN/OSN.ONE.png" group-title="OSN 4K",OSN One 4K
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/62836
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/AMAZON.DOCUMENTRY.png" group-title="Amazon & Documentary VIP",Amazon 1 VIP
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351221
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/AMAZON.DOCUMENTRY.png" group-title="Amazon & Documentary VIP",Amazon 2 VIP
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/354533
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/AMAZON.DOCUMENTRY.png" group-title="Amazon & Documentary VIP",Amazon 3 VIP 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351219
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/AMAZON.DOCUMENTRY.png" group-title="Amazon & Documentary VIP",Amazon 4 VIP 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351218
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/AMAZON.DOCUMENTRY.png" group-title="Amazon & Documentary VIP",Amazon 5 VIP
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351201
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/AMAZON.DOCUMENTRY.png" group-title="Amazon & Documentary VIP",Amazon 6 VIP 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351217
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/AMAZON.DOCUMENTRY.png" group-title="Amazon & Documentary VIP",Amazon 7 VIP 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351216
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/AMAZON.DOCUMENTRY.png" group-title="Amazon & Documentary VIP",Amazon 8 VIP
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351215
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/AMAZON.DOCUMENTRY.png" group-title="Amazon & Documentary VIP",Amazon 9 VIP 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351214
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/AMAZON.DOCUMENTRY.png" group-title="Amazon & Documentary VIP",Amazon 10 VIP
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351213
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/AMAZON.DOCUMENTRY.png" group-title="Amazon & Documentary VIP",AR: Al Jazeera Documentary FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/2586
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/AMAZON.DOCUMENTRY.png" group-title="Amazon & Documentary VIP",AR: Al Jazeera Documentary HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/152192
+#EXTINF:-1 tvg-id="bein9max.fr" tvg-logo="" group-title="FR. SERIES & CINEMA",bein9max.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/85335
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WnHZNHt/105.png" group-title="FR. SERIES & CINEMA",FR: Amazon Prime Video1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/155602
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/D8BFMyb/108.png" group-title="FR. SERIES & CINEMA",FR: AMAZON Movie 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/155603
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/wL4X3rC/109.png" group-title="FR. SERIES & CINEMA",FR: AMAZON Movie 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/155604
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Wym02KF/111.png" group-title="FR. SERIES & CINEMA",FR: AMAZON Movie 4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/155605
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/s3WFWvF/113.png" group-title="FR. SERIES & CINEMA",FR: Amazon Prime Video2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/155606
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nfZ1QxN/114.png" group-title="FR. SERIES & CINEMA",FR: AMAZON PRIME 1 HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/156886
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/VSjnhc1/115.png" group-title="FR. SERIES & CINEMA",FR:Amazon Prime Video4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/155607
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/D4spmC6/117.png" group-title="FR. SERIES & CINEMA",FR: Bein Sports 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/155608
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Gk3ncwz/120.png" group-title="FR. SERIES & CINEMA",FR: AMAZON Movie 8
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/155609
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BNzZ6vD/122.png" group-title="FR. SERIES & CINEMA",FR: AMAZON Movie  9
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/155610
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CbbCqh5/124.png" group-title="FR. SERIES & CINEMA",FR: AMAZON Movie 10
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/155611
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-logo="http://www.vod-logo.net/photos/3131771d8a32674bbf937c7f6e4dc7bc.jpg" group-title="FR. SERIES & CINEMA",canalpluscinema.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/8071
+#EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-logo="http://www.vod-logo.net/photos/0b3b0273dc4ea8475f0ec38654580672.jpg" group-title="FR. SERIES & CINEMA",canalplusfamily.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/8069
+#EXTINF:-1 tvg-id="polarplus.fr" tvg-logo="https://i.ibb.co/FnZ68g3/211.png" group-title="FR. SERIES & CINEMA",polarplus.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/67955
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-logo="https://i.ibb.co/6ZJ592P/130.png" group-title="FR. SERIES & CINEMA",canalplus.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/104134
+#EXTINF:-1 tvg-id="teva.fr" tvg-logo="https://i.ibb.co/8c8zrcm/121.png" group-title="FR. SERIES & CINEMA",teva.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/104129
+#EXTINF:-1 tvg-id="canalplusfamily.fr" tvg-logo="https://i.ibb.co/cCrZ0q2/15.png" group-title="FR. SERIES & CINEMA",canalplusfamily.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/85365
+#EXTINF:-1 tvg-id="canalplus.fr" tvg-logo="http://luz20.com/logos/picon-fransa/canalplus.png" group-title="FR. SERIES & CINEMA",canalplus.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/104136
+#EXTINF:-1 tvg-id="novelastv.fr" tvg-logo="https://i.ibb.co/2q7MS6D/2.png" group-title="FR. SERIES & CINEMA",novelastv.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/117626
+#EXTINF:-1 tvg-id="alticestudio.fr" tvg-logo="https://i.ibb.co/vssCwZZ/99.png" group-title="FR. SERIES & CINEMA",alticestudio.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/8018
+#EXTINF:-1 tvg-id="ocscity.fr" tvg-logo="https://i.ibb.co/kQth6Qz/270.png" group-title="FR. SERIES & CINEMA",ocscity.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/8021
+#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-logo="https://i.ibb.co/Fb5F7ng/24.png" group-title="FR. SERIES & CINEMA",ocsgeants.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/8020
+#EXTINF:-1 tvg-id="ocsmax.fr" tvg-logo="https://i.ibb.co/zn8fy1J/23.png" group-title="FR. SERIES & CINEMA",ocsmax.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/8019
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-logo="https://i.ibb.co/Q6G31DR/1.png" group-title="FR. SERIES & CINEMA",serieclub.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/8009
+#EXTINF:-1 tvg-id="syfy.fr" tvg-logo="https://i.ibb.co/zmVf876/23.png" group-title="FR. SERIES & CINEMA",syfy.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/8005
+#EXTINF:-1 tvg-id="tcm.fr" tvg-logo="http://www.vod-logo.net/photos/ac39da501f05d84b1568be88095c27be.jpg" group-title="FR. SERIES & CINEMA",tcm.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/8004
+#EXTINF:-1 tvg-id="action.fr" tvg-logo="http://luz20.com/logos/picon-fransa/ACTIONHD.png" group-title="FR. SERIES & CINEMA",action.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/104162
+#EXTINF:-1 tvg-id="action.fr" tvg-logo="http://luz20.com/logos/picon-fransa/ACTIONHD.png" group-title="FR. SERIES & CINEMA",action.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/85361
+#EXTINF:-1 tvg-id="action.fr" tvg-logo="https://i.ibb.co/BL6x7qQ/210.png" group-title="FR. SERIES & CINEMA",action.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/85362
+#EXTINF:-1 tvg-id="canalplusdecale.fr" tvg-logo="http://luz20.com/logos/picon-fransa/canalplusdecale.png" group-title="FR. SERIES & CINEMA",canalplusdecale.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/104133
+#EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-logo="http://luz20.com/logos/picon-fransa/CINE+FAMIZHD.png" group-title="FR. SERIES & CINEMA",cineplusamiz.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/85351
+#EXTINF:-1 tvg-id="novelastv.fr" tvg-logo="http://luz20.com/logos/picon-fransa/novelastv.png" group-title="FR. SERIES & CINEMA",novelastv.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/85331
+#EXTINF:-1 tvg-id="ocscity.fr" tvg-logo="https://i.ibb.co/kQth6Qz/270.png" group-title="FR. SERIES & CINEMA",ocscity.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/104172
+#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-logo="http://luz20.com/logos/picon-fransa/PARAMOUNTCHANNELHD.png" group-title="FR. SERIES & CINEMA",paramountchannel.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/104148
+#EXTINF:-1 tvg-id="tcm.fr" tvg-logo="http://luz20.com/logos/picon-fransa/TCMCINEMAHD.png" group-title="FR. SERIES & CINEMA",tcm.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/104161
+#EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-logo="https://i.ibb.co/tMJbHSv/92.png" group-title="FR. SERIES & CINEMA",tf1seriesfilms.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/104181
+#EXTINF:-1 tvg-id="cnews.fr" tvg-logo="https://i.ibb.co/s5QDXVS/272.png" group-title="FR. SERIES & CINEMA",cnews.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/104177
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/SwPgzSF/155.png" group-title="FR. SERIES & CINEMA",|FR| Golf HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/93193
+#EXTINF:-1 tvg-id="ocschoc.fr" tvg-logo="https://i.ibb.co/KDYPDfk/157.png" group-title="FR. SERIES & CINEMA",ocschoc.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/104204
+#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-logo="http://luz20.com/logos/picon-fransa/ocsgeants.png" group-title="FR. SERIES & CINEMA",ocsgeants.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/104223
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ps2PJhq/25.png" group-title="FR. SERIES & CINEMA",[FR] CINE+ PREMIER
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151340
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ngnwtWS/125.png" group-title="FR. SERIES & CINEMA",|FR| Action FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150236
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/THqVfff/123.png" group-title="FR. SERIES & CINEMA",|FR| ACTION HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150235
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8d2Ykd9/90.png" group-title="FR. SERIES & CINEMA",|FR| CANAL PLAY 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150205
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2KpL289/89.png" group-title="FR. SERIES & CINEMA",|FR| CANAL PLAY 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150204
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FR. SERIES & CINEMA",|FR| CANAL PLAY 4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/28426
+#EXTINF:-1 tvg-id="melody.fr" tvg-logo="https://i.ibb.co/8d2Ykd9/90.png" group-title="FR. SERIES & CINEMA",melody.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/104228
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6ZJ592P/130.png" group-title="FR. SERIES & CINEMA",|FR| CANAL+  SERIES FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150246
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/6ZJ592P/130.png" group-title="FR. SERIES & CINEMA",|FR| CANAL+  SERIES HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150245
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hdF6NJt/12.png" group-title="FR. SERIES & CINEMA",|FR| CANAL+ CINEMA
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151325
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hdF6NJt/12.png" group-title="FR. SERIES & CINEMA",|FR| CANAL+ CINEMA FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151321
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fdVMdfd/129.png" group-title="FR. SERIES & CINEMA",|FR| CANAL+ DECALE FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150244
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Xp5j9SK/128.png" group-title="FR. SERIES & CINEMA",|FR| CANAL+ DECALE HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150243
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cCrZ0q2/15.png" group-title="FR. SERIES & CINEMA",|FR| CANAL+ FAMILY
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151327
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/cCrZ0q2/15.png" group-title="FR. SERIES & CINEMA",|FR| CANAL+ FAMILY FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150242
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MnC0Qy9/126.png" group-title="FR. SERIES & CINEMA",|FR| CANAL+ FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150238
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RYTXZmp/17.png" group-title="FR. SERIES & CINEMA",|FR| CANAL+ SERIES
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151328
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RYTXZmp/17.png" group-title="FR. SERIES & CINEMA",|FR| CANAL+ SERIES FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151322
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ncHxRmB/94.png" group-title="FR. SERIES & CINEMA",|FR| CHERIE 25 HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150211
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/F3SNZFZ/140.png" group-title="FR. SERIES & CINEMA",|FR| CINE+ CLASSIC FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150256
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/F3SNZFZ/140.png" group-title="FR. SERIES & CINEMA",|FR| CINE+ CLASSIC HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150255
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XZ9gmBt/22.png" group-title="FR. SERIES & CINEMA",|FR| CINE+ CLUB
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151335
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/XZ9gmBt/22.png" group-title="FR. SERIES & CINEMA",|FR| CINE+ CLUB FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151349
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Kh8ZdNC/21.png" group-title="FR. SERIES & CINEMA",|FR| CINE+ EMOTION
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151333
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Sms3Fnp/20.png" group-title="FR. SERIES & CINEMA",|FR| CINE+ EMOTION FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150248
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Sms3Fnp/20.png" group-title="FR. SERIES & CINEMA",|FR| CINE+ EMOTION HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150247
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PxbfxJR/19.png" group-title="FR. SERIES & CINEMA",|FR| CINE+ FAMIZ
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151332
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PxbfxJR/19.png" group-title="FR. SERIES & CINEMA",|FR| CINE+ FAMIZ FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150252
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PxbfxJR/19.png" group-title="FR. SERIES & CINEMA",|FR| CINE+ FAMIZ HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150251
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vPgwy6v/139.png" group-title="FR. SERIES & CINEMA",|FR| CINE+ FRISSON FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150254
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Ps2PJhq/25.png" group-title="FR. SERIES & CINEMA",|FR| CINE+ PREMIER FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150250
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-logo="http://www.vod-logo.net/photos/57a565ff4ec2d0a04d1cad9e6cf72546.jpg" group-title="FR. SERIES & CINEMA",cineplusclassic.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/8062
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-logo="http://www.vod-logo.net/photos/93115a072e0cf7b47b02a9b8763cf562.jpg" group-title="FR. SERIES & CINEMA",cineplusemotion.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/8061
+#EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-logo="https://i.ibb.co/MVrpQCN/201.png" group-title="FR. SERIES & CINEMA",cineplusamiz.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/8060
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-logo="https://i.ibb.co/Kh8ZdNC/21.png" group-title="FR. SERIES & CINEMA",cineplusemotion.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/104138
+#EXTINF:-1 tvg-id="disneycinema.fr" tvg-logo="http://luz20.com/logos/picon-fransa/cineplusclassic.png" group-title="FR. SERIES & CINEMA",disneycinema.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/104160
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NtnnTyq/38.png" group-title="FR. SERIES & CINEMA",|FR| COMEDIE+
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151355
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NtnnTyq/38.png" group-title="FR. SERIES & CINEMA",|FR| COMEDIE+ HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150230
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/y0Cg7k8/43.png" group-title="FR. SERIES & CINEMA",|FR| MCM
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151361
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/2q7MS6D/2.png" group-title="FR. SERIES & CINEMA",|FR| NOVELAS FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150275
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fb5F7ng/24.png" group-title="FR. SERIES & CINEMA",|FR| OCS GEANTS
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151338
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fb5F7ng/24.png" group-title="FR. SERIES & CINEMA",|FR| OCS GEANTS FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150264
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fb5F7ng/24.png" group-title="FR. SERIES & CINEMA",|FR| OCS GEANTS HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150263
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zn8fy1J/23.png" group-title="FR. SERIES & CINEMA",|FR| OCS MAX
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151336
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zn8fy1J/23.png" group-title="FR. SERIES & CINEMA",|FR| OCS MAX HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150261
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/F0XmFHn/145.png" group-title="FR. SERIES & CINEMA",|FR| PARAMOUNT DECALE FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151348
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/F0XmFHn/145.png" group-title="FR. SERIES & CINEMA",|FR| Paramount Channel HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151347
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FR. SERIES & CINEMA",|FR| PARAMOUNT DECALE HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150265
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/F0XmFHn/145.png" group-title="FR. SERIES & CINEMA",|FR| PARAMOUNT HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150267
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Q6G31DR/1.png" group-title="FR. SERIES & CINEMA",|FR| Série Club FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150274
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zmVf876/23.png" group-title="FR. SERIES & CINEMA",|FR| SYFY HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150227
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rm1jppv/30.png" group-title="FR. SERIES & CINEMA",|FR| TCM CINEMA
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/151346
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FKjrYYn/30.png" group-title="FR. SERIES & CINEMA",|FR| TCM CINEMA HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150266
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JmWdW2b/93.png" group-title="FR. SERIES & CINEMA",|FR| TF1 SERIES FILMS FHD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150210
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tMJbHSv/92.png" group-title="FR. SERIES & CINEMA",|FR| TF1 SERIES FILMS HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150209
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FR. SERIES & CINEMA",|FR| WARNER TV HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/150268
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.VIP.png" group-title="Kids VIP",Kids Life 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/145476
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.VIP.png" group-title="Kids VIP",Kids Life 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/145477
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.VIP.png" group-title="Kids VIP",Kids Life 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/145478
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.VIP.png" group-title="Kids VIP",Kids Life 4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/145479
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.VIP.png" group-title="Kids VIP",Kids Life 5
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/145480
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.VIP.png" group-title="Kids VIP",Kids Life 6
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/145481
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.VIP.png" group-title="Kids VIP",Kids Life 7
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/145482
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.VIP.png" group-title="Kids VIP",Kids Life 8
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/145483
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.VIP.png" group-title="Kids VIP",Kids Life 9
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/145484
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.VIP.png" group-title="Kids VIP",Kids Life 10
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/145485
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.VIP.png" group-title="Kids VIP",Kids Life 11
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/145486
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.VIP.png" group-title="Kids VIP",Kids Life 12
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/145487
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.VIP.png" group-title="Kids VIP",Kids Life 13
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/145488
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.VIP.png" group-title="Kids VIP",Kids Life 14
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/145489
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/CREATED.CHANNEL/KIDS.VIP.png" group-title="Kids VIP",Kids Life 15
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/145490
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.COMEDY.png" group-title="Media Star Movies",AR-MS MOVIES COMEDY 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106672
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.COMEDY.png" group-title="Media Star Movies",AR-MS MOVIES COMEDY 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/400598
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HORROR.png" group-title="Media Star Movies",AR-MS MOVIES HORROR 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106665
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HORROR.png" group-title="Media Star Movies",AR-MS MOVIES HORROR 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106668
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ROMANCE.png" group-title="Media Star Movies",AR-MS MOVIES ROMANCE 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106659
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ROMANCE.png" group-title="Media Star Movies",AR-MS MOVIES ROMANCE 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106661
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.SCI-FI.png" group-title="Media Star Movies",AR-MS MOVIES SCI-FI 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106678
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.SCI-FI.png" group-title="Media Star Movies",AR-MS MOVIES SCI-FI 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106681
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.DRAMA.png" group-title="Media Star Movies",AR-MS MOVIES DRAMA 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/354050
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.DRAMA.png" group-title="Media Star Movies",AR-MS MOVIES DRAMA 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/354250
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HISTORY.png" group-title="Media Star Movies",AR-MS MOVIES HISTORY 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/356175
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HISTORY.png" group-title="Media Star Movies",AR-MS MOVIES HISTORY 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/354525
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ACTION.png" group-title="Media Star Movies",AR-MS MOVIES ACTION 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/356176
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ACTION.png" group-title="Media Star Movies",AR-MS MOVIES ACTION 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106656
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ACTION.png" group-title="Media Star Movies",EN- MS MOVIES ACTION 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351436
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ACTION.png" group-title="Media Star Movies",EN- MS MOVIES ACTION  2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106636
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ACTION.png" group-title="Media Star Movies",EN- MS MOVIES ACTION 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106638
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ACTION.png" group-title="Media Star Movies",EN- MS MOVIES ACTION 4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106639
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ACTION.png" group-title="Media Star Movies",EN- MS MOVIES ACTION  5
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106640
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ACTION.png" group-title="Media Star Movies",EN- MS MOVIES ACTION 6
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106637
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.COMEDY.png" group-title="Media Star Movies",EN-MS MOVIES COMEDY 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106682
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.COMEDY.png" group-title="Media Star Movies",EN-MS MOVIES COMEDY 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106686
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.COMEDY.png" group-title="Media Star Movies",EN-MS MOVIES COMEDY 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106688
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.COMEDY.png" group-title="Media Star Movies",EN-MS MOVIES COMEDY 4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106690
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.COMEDY.png" group-title="Media Star Movies",EN-MS MOVIES COMEDY 5
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106693
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.DRAMA.png" group-title="Media Star Movies",EN-MS MOVIES DRAMA 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106711
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.DRAMA.png" group-title="Media Star Movies",EN-MS MOVIES DRAMA 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106712
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.DRAMA.png" group-title="Media Star Movies",EN-MS MOVIES DRAMA 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106647
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.DRAMA.png" group-title="Media Star Movies",EN-MS MOVIES DRAMA 4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106648
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HISTORY.png" group-title="Media Star Movies",EN-MS MOVIES HISTORY 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106702
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HISTORY.png" group-title="Media Star Movies",EN-MS MOVIES HISTORY 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106705
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HISTORY.png" group-title="Media Star Movies",EN-MS MOVIES HISTORY 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106706
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HISTORY.png" group-title="Media Star Movies",EN-MS MOVIES HISTORY 4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106708
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HORROR.png" group-title="Media Star Movies",EN-MS MOVIES HORROR 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106667
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HORROR.png" group-title="Media Star Movies",EN-MS MOVIES HORROR 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106669
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HORROR.png" group-title="Media Star Movies",EN-MS MOVIES HORROR 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106671
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HORROR.png" group-title="Media Star Movies",EN-MS MOVIES HORROR 4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106675
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HORROR.png" group-title="Media Star Movies",EN-MS MOVIES HORROR 5
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106677
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HORROR.png" group-title="Media Star Movies",EN-MS MOVIES HORROR 6
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106679
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ROMANCE.png" group-title="Media Star Movies",EN-MS MOVIES ROMANCE 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106654
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ROMANCE.png" group-title="Media Star Movies",EN-MS MOVIES ROMANCE 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106655
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ROMANCE.png" group-title="Media Star Movies",EN-MS MOVIES ROMANCE 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106660
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ROMANCE.png" group-title="Media Star Movies",EN-MS MOVIES ROMANCE 4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106662
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ROMANCE.png" group-title="Media Star Movies",EN-MS MOVIES ROMANCE 5
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106663
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.SCI-FI.png" group-title="Media Star Movies",EN-MS MOVIES SCI-FI 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106695
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.SCI-FI.png" group-title="Media Star Movies",EN-MS MOVIES SCI-FI 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106696
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.SCI-FI.png" group-title="Media Star Movies",EN-MS MOVIES SCI-FI 3
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106698
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.SCI-FI.png" group-title="Media Star Movies",EN-MS MOVIES SCI-FI 4
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106701
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HISTORY.png" group-title="Media Star Movies",ES-MS MOVIES HISTORY
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106700
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ACTION.png" group-title="Media Star Movies",FR-MS MOVIES ACTION 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106709
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ACTION.png" group-title="Media Star Movies",FR-MS MOVIES ACTION 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106714
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.COMEDY.png" group-title="Media Star Movies",FR-MS MOVIES COMEDY
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106722
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.DRAMA.png" group-title="Media Star Movies",FR-MS MOVIES DRAMA
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106725
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HISTORY.png" group-title="Media Star Movies",FR-MS MOVIES HISTORY
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106724
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HORROR.png" group-title="Media Star Movies",FR-MS MOVIES HORROR 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106720
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HORROR.png" group-title="Media Star Movies",FR-MS MOVIES HORROR 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106721
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ROMANCE.png" group-title="Media Star Movies",FR-MS MOVIES ROMANCE 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106716
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ROMANCE.png" group-title="Media Star Movies",FR-MS MOVIES ROMANCE 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106718
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.SCI-FI.png" group-title="Media Star Movies",FR-MS MOVIES SCI-FI
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106723
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ACTION.png" group-title="Media Star Movies",IN-MS MOVIES ACTION 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106707
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ACTION.png" group-title="Media Star Movies",IN-MS MOVIES ACTION 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106710
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.COMEDY.png" group-title="Media Star Movies",IN-MS MOVIES COMEDY
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106732
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.DRAMA.png" group-title="Media Star Movies",IN-MS MOVIES DRAMA
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106735
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HISTORY.png" group-title="Media Star Movies",IN-MS MOVIES HISTORY
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106734
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HORROR.png" group-title="Media Star Movies",IN-MS MOVIES HORROR 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106717
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HORROR.png" group-title="Media Star Movies",IN-MS MOVIES HORROR 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106719
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ROMANCE.png" group-title="Media Star Movies",IN-MS MOVIES ROMANCE 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106713
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ROMANCE.png" group-title="Media Star Movies",IN-MS MOVIES ROMANCE 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106715
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.SCI-FI.png" group-title="Media Star Movies",IN-MS MOVIES SCI-FI
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106733
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ACTION.png" group-title="Media Star Movies",PR-MS MOVIES ACTION
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106741
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.COMEDY.png" group-title="Media Star Movies",PR-MS MOVIES COMEDY
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106744
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.DRAMA.png" group-title="Media Star Movies",PR-MS MOVIES DRAMA
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106743
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HISTORY.png" group-title="Media Star Movies",PR-MS MOVIES HISTORY
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106745
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ROMANCE.png" group-title="Media Star Movies",PR-MS MOVIES ROMANCE
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/106742
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ACTION.png" group-title="Media Star Movies",DE-MS MOVIES ACTION 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351206
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ACTION.png" group-title="Media Star Movies",DE-MS MOVIES ACTION 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351205
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.COMEDY.png" group-title="Media Star Movies",DE-MS MOVIES COMEDY
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351210
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HISTORY.png" group-title="Media Star Movies",DE-MS MOVIES HISTORY
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351208
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HORROR.png" group-title="Media Star Movies",DE-MS MOVIES HORROR 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351200
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HORROR.png" group-title="Media Star Movies",DE-MS MOVIES HORROR 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351199
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ROMANCE.png" group-title="Media Star Movies",DE-MS MOVIES ROMANCE 2
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351203
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.SCI-FI.png" group-title="Media Star Movies",DE-MS MOVIES SCI-FI
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351209
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.DRAMA.png" group-title="Media Star Movies",MS MOVIES DRAMA
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351207
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ROMANCE.png" group-title="Media Star Movies",MS MOVIES ROMANCE 1
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/351204
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ACTION.png" group-title="Media Star Movies",NL-MS MOVIES ACTION
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/354053
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.HISTORY.png" group-title="Media Star Movies",NL-MS MOVIES HISTORY
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/354054
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/MS/MS.ROMANCE.png" group-title="Media Star Movies",NL-MS MOVIES ROMANCY
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/354055
+#EXTINF:-1 tvg-id="beinsportsnews.qa" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.NEWS.png" group-title="beIN Sports 4K ⚽",beinsportsnews.qa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142770
+#EXTINF:-1 tvg-id="beinsports1.qa" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS1.png" group-title="beIN Sports 4K ⚽",beinsports1.qa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142774
+#EXTINF:-1 tvg-id="beinseries2.qa" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS2.png" group-title="beIN Sports 4K ⚽",beinseries2.qa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142775
+#EXTINF:-1 tvg-id="beinsports3.qa" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS3.png" group-title="beIN Sports 4K ⚽",beinsports3.qa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142776
+#EXTINF:-1 tvg-id="beinsports4.qa" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS4.png" group-title="beIN Sports 4K ⚽",beinsports4.qa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142777
+#EXTINF:-1 tvg-id="beinsports5.qa" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS5.png" group-title="beIN Sports 4K ⚽",beinsports5.qa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142778
+#EXTINF:-1 tvg-id="beinsports6.qa" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS6.png" group-title="beIN Sports 4K ⚽",beinsports6.qa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142779
+#EXTINF:-1 tvg-id="beinsports7.qa" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS7.png" group-title="beIN Sports 4K ⚽",beinsports7.qa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142780
+#EXTINF:-1 tvg-id="beinsports1premium.qa" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS8.png" group-title="beIN Sports 4K ⚽",beinsports1premium.qa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142771
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS9.png" group-title="beIN Sports 4K ⚽",beinsports2premium.qa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142772
+#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-logo="http://194.163.160.164/BEIN/BEIN.NBA.png" group-title="beIN Sports 4K ⚽",beinsportsnba.qa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142783
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.ENGLISH1.png" group-title="beIN Sports 4K ⚽",beinsports1en.qa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142781
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.ENGLISH2.png" group-title="beIN Sports 4K ⚽",beinsports2en.qa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142782
+#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.FRENCH1.png" group-title="beIN Sports 4K ⚽",beinsports1fr.qa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142784
+#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.FRENCH2.png" group-title="beIN Sports 4K ⚽",beinsports2fr.qa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142785
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-logo="http://194.163.160.164/BEIN/BEIN.SPORTS.FRENCH3.png" group-title="beIN Sports 4K ⚽",beinsports3.fr
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142786
+#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-logo="http://194.163.160.164/BEIN/BEIN.EXTRA1.png" group-title="beIN Sports 4K ⚽",beinsportsxtra1.qa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/163249
+#EXTINF:-1 tvg-id="beinsportsxtra2ar.qa" tvg-logo="http://194.163.160.164/BEIN/BEIN.EXTRA2.png" group-title="beIN Sports 4K ⚽",beinsportsxtra2ar.qa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/163248
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-logo="http://194.163.160.164/BEIN/BEIN.EXTRA3.png" group-title="beIN Sports 4K ⚽",beinsports3premium.qa
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/142773
