@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/65e3d2c1-1f78-4130-978d-b5e4431924e2.png" group-title="QURAN",MEKKE TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/4afc0cdb-cd06-4085-9917-cb9ea43f2b72.png" group-title="QURAN",MEKKE LIVE
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8
+#EXTINF:-1 tvg-id="AlSunnahAlNabawiyahTV.sa" tvg-logo="https://i.imgur.com/S6LcTJv.png" group-title="QURAN",Al Sunnah Al Nabawiyah TV
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/074317bd-f13d-4ff3-b7d0-39381b47064e.png" group-title="QURAN",FERMUDA TV
 http://avrstream.com:1935/live/FarmodaTV/chunklist_w408089479.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/jR7GsS7B/amojgari.png" group-title="QURAN",AMOJGARI
@@ -11,6 +13,8 @@ http://baskhd.ddns.net:40/live/QURANHDTV/HawezHD.m3u
 http://zavartv.badinan.xyz:1935/live/ZAVAR-TV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/852505ac-34bf-49ab-9bcd-7ccae8451584.png" group-title="QURAN",MNM QURAN
 http://mmn.mypsx.net:1935/live/mmnhdradioturky/chunklist_w1232079041.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/65e3d2c1-1f78-4130-978d-b5e4431924e2.png" group-title="QURAN",BANGAWAZ HD
+http://baskhd.ddns.net:40/live/bangawaztv/chunklist_w722234250.m3u8
 #EXTINF:-1 tvg-id="DiyanetTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png" group-title="QURAN",Diyanet TV
 http://185.234.111.229:8000/play/a05j
 #EXTINF:-1 tvg-id="RTVIslam.ch" tvg-logo="https://i.ibb.co/LSJqLJw/RTV-LOGO.png" group-title="QURAN",RTV Islam
@@ -101,12 +105,32 @@ http://avrstream.com:1935/live/AvarTv/playlist.m3u8
 http://avrstream.com:1935/live/SHARTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/pencil-in-circle4975.logowik.com.webp" group-title="FREE TV",QALLAM TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/qallamtvlocal/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/zed.png" group-title="VIP TV",ZED HD
-http://line.now-ott.xyz/live/451AAD/%203f41a2/89636.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://go4.pw/ASIA/KURDISTAN/Nujen.png" group-title="VIP TV",NUJEN TV
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/157862
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/3fd4e7fc-649b-47c9-914f-a4339311befb.png" group-title="VIP TV",DASINYA TV
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/169673
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/DASINYA.KIDS.png" group-title="VIP TV",DASINYA KIDS
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/162748
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/3bb9307f-e057-4033-9788-0204db265355.png" group-title="VIP TV",SIMA HD
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/162752
+#EXTINF:-1 tvg-id="" tvg-logo="https://mixmedia.tv/wp-content/uploads/2020/06/Delal-TV.jpg" group-title="VIP TV",DELAL TV
+http://extraott-iptv.com:88/live/0229477349/8104258135/400219964.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/eeed9a4b-d58d-45ba-b96c-f249366edfc8.png" group-title="VIP TV",ZAXO FHD
+http://line.now-ott.xyz/live/451AAD/%203f41a2/1443588.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/2804a683-5235-43ff-be69-4713e624a1fe.png" group-title="VIP TV",NEWLINE 1
 http://line.now-ott.xyz/live/451AAD/%203f41a2/89653.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/3cd7286c-23f8-4bf5-8245-31518ade9e2e.png" group-title="VIP TV",NEWLINE 2
 http://line.now-ott.xyz/live/451AAD/%203f41a2/89652.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZTPSPxJT/nmovies.png" group-title="VIP TV",NEWLINE MOVIES
+http://line.now-ott.xyz/live/451AAD/%203f41a2/741933.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/4JYJGg10/NDRAMA.png" group-title="VIP TV",NEWLINE DRAMA
+http://line.now-ott.xyz/live/451AAD/%203f41a2/1443623.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://logo.0964750.xyz/logo/newlinebollywood.fw.png" group-title="VIP TV",NEWLINE BOLYWOOD
+http://line.now-ott.xyz/live/451AAD/%203f41a2/741935.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://mixmedia.tv/wp-content/uploads/2022/08/zed.png" group-title="VIP TV",ZED HD
+http://line.now-ott.xyz/live/451AAD/%203f41a2/89636.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://go4.pw/KURDISH/Zed%20Plus.png" group-title="VIP TV",ZED PLUS
+http://line.now-ott.xyz/live/451AAD/%203f41a2/741941.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hSZPXbwj/aro-family.png" group-title="VIP TV",ARO FAMILY
 http://line.now-ott.xyz/live/451AAD/%203f41a2/1443587.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/kqpWmBkS/kalpr.png" group-title="VIP TV",KALAPOR
@@ -115,30 +139,18 @@ http://line.now-ott.xyz/live/451AAD/%203f41a2/1443595.ts
 http://line.now-ott.xyz/live/451AAD/%203f41a2/89642.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/ef4cc827-bdb0-49b3-97d7-3706c93ef0db.png" group-title="VIP TV",RESEN HD
 http://line.now-ott.xyz/live/451AAD/%203f41a2/723217.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/3fd4e7fc-649b-47c9-914f-a4339311befb.png" group-title="VIP TV",DASINYA TV
-http://extraott-iptv.com:88/live/0229477349/8104258135/381759.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://mixmedia.tv/wp-content/uploads/2020/06/Delal-TV.jpg" group-title="VIP TV",DELAL TV
-http://extraott-iptv.com:88/live/0229477349/8104258135/400219964.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/eeed9a4b-d58d-45ba-b96c-f249366edfc8.png" group-title="VIP TV",ZAXO FHD
-http://line.now-ott.xyz/live/451AAD/%203f41a2/1443588.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://go4.pw/ASIA/KURDISTAN/Nujen.png" group-title="VIP TV",NUJEN TV
-http://extraott-iptv.com:88//live/0229477349/8104258135/40020.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/3bb9307f-e057-4033-9788-0204db265355.png" group-title="VIP TV",SIMA HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/36920.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://go4.pw/KURDISH/Reng-Documentary-e1591222594883.png" group-title="VIP TV",RENG DOCUMENTARY
 http://line.now-ott.xyz/live/451AAD/%203f41a2/89645.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://logo.0964750.xyz/logo/newlinebollywood.fw.png" group-title="VIP TV",NEWLINE BOLYWOOD
-http://line.now-ott.xyz/live/451AAD/%203f41a2/741935.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/0c6ed235-99af-442f-b0f5-46a4079b00b4.png" group-title="VIP TV",NIGA FAMILY
 http://line.now-ott.xyz/live/451AAD/%203f41a2/89651.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://go4.pw/KURDISH/Reng-Documentary-e1591222594883.png" group-title="VIP TV",RENG HD
 http://line.now-ott.xyz/live/451AAD/%203f41a2/89651.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.0964750.xyz/logo/derwaze.fw.png" group-title="VIP TV",DERWAZE
-http://line.now-ott.xyz/live/451AAD/%203f41a2/115903.ts
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/28424
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.0964750.xyz/logo/dimen.fw.png" group-title="VIP TV",DIMEN HD
 http://line.now-ott.xyz/live/451AAD/%203f41a2/1443641.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/9tc8gS0/Ranya-designstyle-pastel-m.png" group-title="VIP TV",RANYA HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/36933.ts
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/90905
 #EXTINF:-1 tvg-id="" tvg-logo="http://logo.0964750.xyz/logo/atvkrd.fw.png" group-title="VIP TV",ATV
 http://extraott-iptv.com:88/live/0229477349/8104258135/381898.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://go4.pw/EUROPE/KURDISTAN/MISHTIMANY%20MN.png" group-title="VIP TV",NISHTIMANI MIN
@@ -153,12 +165,6 @@ http://extraott-iptv.com:88//live/0229477349/8104258135/39486.ts
 http://extraott-iptv.com:88//live/0229477349/8104258135/36919.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/655944e5-1552-48d9-8528-beed15572392.png" group-title="VIP TV",ASTERA MOVIES
 http://line.now-ott.xyz/live/451AAD/%203f41a2/89682.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://go4.pw/KURDISH/Zed%20Plus.png" group-title="VIP TV",ZED PLUS
-http://line.now-ott.xyz/live/451AAD/%203f41a2/741941.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/4JYJGg10/NDRAMA.png" group-title="VIP TV",NEWLINE DRAMA
-http://line.now-ott.xyz/live/451AAD/%203f41a2/1443623.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZTPSPxJT/nmovies.png" group-title="VIP TV",NEWLINE MOVIES
-http://line.now-ott.xyz/live/451AAD/%203f41a2/741933.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/7530eab0-7389-4de6-a3db-05d75a958ac5.png" group-title="MOVIES",BARIN MOVIES
 http://baskhd.ddns.net:40/live//barinmovieSHD/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/17bb32c2-0cdd-469c-9bd2-7d1235b31b05.png" group-title="MOVIES",BNAR MOVIES
@@ -207,8 +213,6 @@ http://178.219.128.68:64888/HBO2HD
 http://178.219.128.68:64888/HBO3HD
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/Fourqui/tv/blob/master/countries/united-states/hd/fx-hd-us.png?raw=true" group-title="MOVIES",CANAL+ SERIALE
 http://178.219.128.68:64888/CANASERIHD
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/SHAHID.NET.png" group-title="KIDS",SHAHID KIDS
-http://nvpro.tv/live/m64vVV44/5952993334/924.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/BeIN_SERIES_logo_2017_V2.jpg" group-title="MOVIES",beIN SERIES
 http://dasifnz3.otttv.pw/iptv/ZASGRTFYHX4RT9/6138/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/Box_cyan.png" group-title="MOVIES",SHAHID BOX
@@ -217,6 +221,56 @@ http://dasifnz3.otttv.pw/iptv/ZASGRTFYHX4RT9/6137/index.m3u8
 http://149.57.37.10/EX/MBC_MAX_FHD-ar/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_d%27action.png" group-title="MOVIES",b ACTION HD
 http://87.246.60.6:11028?token=fas-tv.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/SHAHID.NET.png" group-title="KIDS",SHAHID KIDS
+http://nvpro.tv/live/m64vVV44/5952993334/924.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="KIDS",AVAR KIDS
+http://avrstream.com:1935/live/AvarTv/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnime.it" tvg-logo="https://i.imgur.com/bvbn8pa.png" group-title="KIDS",Pluto TV Anime
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="KIDS",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/cartoonito-uk.png" group-title="KIDS",Cartoonito HD
+http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://zindikurmanci.zaroktv.com.tr/logo" group-title="KIDS",ZAROK TV
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="KIDS",Nickelodeon
+http://109.233.89.166/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-logo="https://i.imgur.com/zeKHZYG.png" group-title="KIDS",Persiana Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="KIDS",TRT Diyanet Cocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-logo="https://i.imgur.com/GjppUlg.png" group-title="KIDS",Polsat JimJam
+http://109.233.89.166/Polsat_JimJam/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="KIDS",Nickelodeon CIS
+http://31.148.48.15/Nickelodeon/index.m3u8
+#EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="KIDS",EL MAJID KID
+https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="MNetKids.mk" tvg-logo="https://i.imgur.com/SbKkpuH.png" group-title="KIDS",M-Net Kids
+http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="KIDS",Minika Cocuk
+https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
+#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="KIDS",Minika Go
+https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
+#EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="KIDS",ANI KIDS
+http://31.148.48.15/Ani/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1812fe49-8834-4fb8-9a7c-7bc4578c9fdd.png" group-title="KIDS",МБК  3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1dc3334b-0205-45ac-b59d-e0e728c06d6f.png" group-title="KIDS",AFARIN TV
+http://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist_w308017278.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1edbb309-7b1a-475f-8cb2-4b5c8512c01d.png" group-title="KIDS",MNM KIDS
+http://mmn.mypsx.net:1935/live/mmnhdkids/chunklist_w1619842159.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="KIDS",DISNEY XD
+http://178.219.128.68:64888/DISNXD
+#EXTINF:-1 tvg-id="" tvg-logo="http://stream.geoiptv.live/channels_icon/18599627861.png" group-title="KIDS",CARTOON HD
+http://ch14.tv/live/ch4teenkids/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/05/Kidco.png" group-title="KIDS",KIDCO HD
+http://avrstream.com:1935/live/kidcohd/chunklist_w1335484422.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/e4d4cf23-733c-4479-9ebe-529f0c10f2f1.png" group-title="KIDS",SPACE TOON
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/b55a5e2c-7540-444e-9882-b923c8baa855.png" group-title="KIDS",TRT CUCUK
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="KIDS",DISNEY EAST
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1edbb309-7b1a-475f-8cb2-4b5c8512c01d.png" group-title="DOCUMENTARY",MNM DOCUMENTARY
 http://mmn.mypsx.net:1935/live/mmnhddocumentary/chunklist_w607559860.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/N00seOn.png" group-title="DOCUMENTARY",ANIMAL BOX
@@ -275,54 +329,6 @@ http://135.181.115.81:8000/play/a01j/index.m3u8?token=livetv
 http://78.130.250.2:8023/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/DocuBox_HD_logo.png" group-title="DOCUMENTARY",DUCO BOX
 http://iptv.prosto.tv:7000/ch93/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="KIDS",AVAR KIDS
-http://avrstream.com:1935/live/AvarTv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnime.it" tvg-logo="https://i.imgur.com/bvbn8pa.png" group-title="KIDS",Pluto TV Anime
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="KIDS",Anime TV
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/cartoonito-uk.png" group-title="KIDS",Cartoonito HD
-http://stream01.vnet.am/Channel_120/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://zindikurmanci.zaroktv.com.tr/logo" group-title="KIDS",ZAROK TV
-https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="KIDS",Nickelodeon
-http://109.233.89.166/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-logo="https://i.imgur.com/zeKHZYG.png" group-title="KIDS",Persiana Junior
-https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="KIDS",TRT Diyanet Cocuk
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="PolsatJimJam.pl" tvg-logo="https://i.imgur.com/GjppUlg.png" group-title="KIDS",Polsat JimJam
-http://109.233.89.166/Polsat_JimJam/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="KIDS",Nickelodeon CIS
-http://31.148.48.15/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/TzOKMMy.png" group-title="KIDS",EL MAJID KID
-https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="MNetKids.mk" tvg-logo="https://i.imgur.com/SbKkpuH.png" group-title="KIDS",M-Net Kids
-http://ares.mnet.mk/hls/mnet-kids.m3u8
-#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="KIDS",Minika Cocuk
-https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/index.m3u8
-#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="KIDS",Minika Go
-https://tgn.bozztv.com/dvrfl05/gin-minikago/index.m3u8
-#EXTINF:-1 tvg-id="Majid.ae" tvg-logo="https://i.imgur.com/i2AP0hp.png" group-title="KIDS",ANI KIDS
-http://31.148.48.15/Ani/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1812fe49-8834-4fb8-9a7c-7bc4578c9fdd.png" group-title="KIDS",МБК  3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1dc3334b-0205-45ac-b59d-e0e728c06d6f.png" group-title="KIDS",AFARIN TV
-http://afarintv.flashmediacast.com:1935/afarinTV/livestream/chunklist_w308017278.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/1edbb309-7b1a-475f-8cb2-4b5c8512c01d.png" group-title="KIDS",MNM KIDS
-http://mmn.mypsx.net:1935/live/mmnhdkids/chunklist_w1619842159.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/512px-Disney_XD_-_2015.svg.png" group-title="KIDS",DISNEY XD
-http://178.219.128.68:64888/DISNXD
-#EXTINF:-1 tvg-id="" tvg-logo="http://stream.geoiptv.live/channels_icon/18599627861.png" group-title="KIDS",CARTOON HD
-http://ch14.tv/live/ch4teenkids/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mixmedia.tv/wp-content/uploads/2024/05/Kidco.png" group-title="KIDS",KIDCO HD
-http://avrstream.com:1935/live/kidcohd/chunklist_w1335484422.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/e4d4cf23-733c-4479-9ebe-529f0c10f2f1.png" group-title="KIDS",SPACE TOON
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://widget.ottplayer.tv/upictures/b55a5e2c-7540-444e-9882-b923c8baa855.png" group-title="KIDS",TRT CUCUK
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="KIDS",DISNEY EAST
-https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/05PsGFF7/MBC.png" group-title="COUNTRY",MBC 1
 http://149.57.37.10/EX/MBC_1_FHD-ar/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0tm3tui.png" group-title="COUNTRY",A2 TV TURKEY
@@ -331,6 +337,8 @@ http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="COUNTRY",KBS 2TV
 http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/investigation-discovery-uk.png" group-title="COUNTRY",1+1 Кіно HD
+http://lb.freeott.top:8080/lb0/1plus1_kino_hd/video.m3u8?token=Hometop&token=1c2a028e07bce089bb86519d7c6b875b
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/fraudiay79/logos/blob/master/br/band.png?raw=true" group-title="COUNTRY",DTX Poland HD
 http://178.219.128.68:64888/DTXHD
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/250?cb=20201126064846" group-title="COUNTRY",AXN
@@ -371,10 +379,26 @@ https://stream.sainaertebat.com/hls2/bein2.m3u8
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/6126/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="SPORTS",beIN SPORT 4
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/6125/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/BeIN_LaLiga_HD.png" group-title="SPORTS",beIN SPORT 6 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/BeIN_LaLiga_HD.png" group-title="SPORTS",beIN SPORT 6
 http://cd7n120x.socminlt.com/iptv/YDFRWUQHUKMN2V/6127/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/BeIN_LaLiga_HD.png" group-title="SPORTS",beIN SPORT 7
 http://axmczf3b.otttv.pw/iptv/TMNDKBC6WFNGFU/6128/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/NRT.SPORT.png" group-title="EXTREAM KURD",NRT SPORT
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/29348
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/DUHOK.SPORT.png" group-title="EXTREAM KURD",DUHOK SPORT
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/199335
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/4ANIME.png" group-title="EXTREAM KURD",4 anime
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/196377
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/LD.KURD.CINEMA.png" group-title="EXTREAM KURD",LD Kurdcinema 
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/157863
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/LD.ANIME.png" group-title="EXTREAM KURD",LD anime
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/239697
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/DEVER.png" group-title="EXTREAM KURD",Dever hd
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/196376
+#EXTINF:-1 tvg-id="" tvg-logo="http://194.163.160.164/KURDY/XABIR.png" group-title="EXTREAM KURD",Xabir hd
+http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/169740
+
+
 
 #EXTINF:-1 tvg-chno="394" tvg-id="" tvg-name="K- Forever Badini Movies" tvg-logo="http://194.163.160.164/KURDY/BADINIMOVIES.png" group-title="KURDI XTREAM",K- Forever Badini Movies
 http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/237327
