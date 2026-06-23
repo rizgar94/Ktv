@@ -585,3 +585,5 @@ https://stream.veo.buzz:6050/sport/ch13/adaptive.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",IRAQIA SPORT HD
 http://teledunet.com:8080/tdn/tdn/754
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS",CHINA SPORT HD
+https://www.rtmpcdn.com/live/migu1.m3u8
