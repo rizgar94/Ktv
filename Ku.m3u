@@ -97,6 +97,8 @@ https://familyhls.avatv.live/hls/stream.m3u8
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="beIN SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/BeIN_SERIES_logo_2017_V2.jpg" group-title="MOVIES",beIN SERIES
 http://dasifnz3.otttv.pw/iptv/ZASGRTFYHX4RT9/6138/index.m3u8
+#EXTINF:-1 tvg-name="soz movie" group-title="MOVIES",soz movie
+https://live20.bozztv.com/giatv/giatv-sozetv/sozetv/chunks.m3u8
 #EXTINF:-1 tvg-name="Afarin Baxcha" tvg-logo="https://afarin.tv/images/baxcha.png" group-title="KIDS",Afarin Baxcha
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="MBC 3 USA" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="KIDS",MBC 3 USA
@@ -191,8 +193,8 @@ https://www.rtmpcdn.com/live/migu1.m3u8
 https://www.rtmpcdn.com/live/migu2.m3u8
 #EXTINF:-1 tvg-name="CCTV 5" group-title="SPORTS",CCTV 5
 https://www.rtmpcdn.com/live/cctv5.m3u8
-#EXTINF:-1 tvg-name="CCTV 5 ※" group-title="SPORTS",CCTV 5 ※
-https://www.rtmpcdn.com/live/gdty.m3u8
+#EXTINF:-1 tvg-name="Kora city" group-title="SPORTS",Kora city
+https://dc.mreaive.space/kooon1.m3u8
 #EXTINF:-1 tvg-name="CCTV 5+" group-title="SPORTS",CCTV 5+
 https://www.rtmpcdn.com/live/cctv5p.m3u8
 #EXTINF:-1 tvg-name="Flag china" group-title="SPORTS",Flag china
@@ -203,3 +205,9 @@ https://www.rtmpcdn.com/live/xiaohongshu2.m3u8
 https://www.rtmpcdn.com/live/elta.m3u8
 #EXTINF:-1 tvg-name="ELTA CHINA 2" group-title="SPORTS",ELTA CHINA 2
 https://www.rtmpcdn.com/live/elta2.m3u8
+#EXTINF:-1 tvg-name="verzish" group-title="SPORTS",verzish
+https://edge22.776740.ir.cdn.ir/hls2/tv3.m3u8
+#EXTINF:-1 tvg-name="iran sport" group-title="SPORTS",iran sport
+https://live-aburayhan1105.telewebion.ir/ek/sport1/live/1080p/index.m3u8
+#EXTINF:-1 tvg-name="persiana sport" group-title="SPORTS",persiana sport
+https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8
