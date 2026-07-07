@@ -77,6 +77,12 @@ https://d1x82nydcxndze.cloudfront.net/live/index_360p25.m3u8
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:-1 tvg-name="GK PLUS" group-title="VIP TV",GK PLUS
 https://live.host247.net/gk/gkplus/chunklist_w513376264.m3u8
+#EXTINF:-1 tvg-name="Peshang tv" group-title="VIP TV",Peshang tv
+https://stream.forcaroo.com/stream/hls/desktop.m3u8
+#EXTINF:-1 tvg-name="shna" group-title="VIP TV",shna
+https://lbgo.bozztv.com/ssh101/ssh101/shna12345/chunks.m3u8?lb_backend_hint=7
+#EXTINF:-1 tvg-name="next tv" group-title="VIP TV",next tv
+https://livestream.badinan.xyz/nexttv/FHD/playlist.m3u8
 #EXTINF:-1 tvg-name="MNM MOVIES" tvg-logo="http://widget.ottplayer.tv/upictures/97eb34ff-8f1e-4aa7-88c3-19047f070a7e.png" group-title="MOVIES",MNM MOVIES
 http://mmn.mypsx.net:1935/live/mmnhdmovies/chunklist_w2101108385.m3u8
 #EXTINF:-1 tvg-name="MNM DRAMA" tvg-logo="http://widget.ottplayer.tv/upictures/97eb34ff-8f1e-4aa7-88c3-19047f070a7e.png" group-title="MOVIES",MNM DRAMA
