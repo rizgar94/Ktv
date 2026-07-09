@@ -75,6 +75,10 @@ http://136.243.155.55:8088/ldfamley/index.m3u8
 https://d1x82nydcxndze.cloudfront.net/live/index_360p25.m3u8
 #EXTINF:-1 tvg-name="K24 d" tvg-logo="https://i.postimg.cc/B4h7DD5G/K24D.png" group-title="FREE TV",K24 d
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 tvg-name="hormzyar" group-title="FREE TV",hormzyar
+http://avrstream.com:1935/live/HormzyarHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Red tv" group-title="FREE TV",Red tv
+http://avrstream.com:1935/live/REDTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="GK PLUS" group-title="VIP TV",GK PLUS
 https://live.host247.net/gk/gkplus/chunklist_w513376264.m3u8
 #EXTINF:-1 tvg-name="Peshang tv" group-title="VIP TV",Peshang tv
